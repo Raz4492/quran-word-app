@@ -1,0 +1,4002 @@
+[
+  {
+    "rank": 1,
+    "arabic": "مِن",
+    "transliteration": "min",
+    "bangla": "থেকে",
+    "english": "from",
+    "frequency": 3226
+  },
+  {
+    "rank": 2,
+    "arabic": "اللَّه",
+    "transliteration": "Allāh",
+    "bangla": "আল্লাহ",
+    "english": "Allah",
+    "frequency": 2699
+  },
+  {
+    "rank": 3,
+    "arabic": "ما",
+    "transliteration": "mā",
+    "bangla": "কী; যা; না",
+    "english": "what; that which; not",
+    "frequency": 2177
+  },
+  {
+    "rank": 4,
+    "arabic": "فِي",
+    "transliteration": "fī",
+    "bangla": "মধ্যে; ভিতরে",
+    "english": "in; inside",
+    "frequency": 1701
+  },
+  {
+    "rank": 5,
+    "arabic": "لا",
+    "transliteration": "lā",
+    "bangla": "না; নয়",
+    "english": "no; not",
+    "frequency": 1691
+  },
+  {
+    "rank": 6,
+    "arabic": "إِنَّ",
+    "transliteration": "inna",
+    "bangla": "নিশ্চয়ই",
+    "english": "indeed; surely",
+    "frequency": 1682
+  },
+  {
+    "rank": 7,
+    "arabic": "قالَ",
+    "transliteration": "qāla",
+    "bangla": "বলা",
+    "english": "to say",
+    "frequency": 1618
+  },
+  {
+    "rank": 8,
+    "arabic": "الَّذِي",
+    "transliteration": "alladhī",
+    "bangla": "যে; যিনি; যারা",
+    "english": "who; which; that (relative pronoun)",
+    "frequency": 1468
+  },
+  {
+    "rank": 9,
+    "arabic": "عَلَى",
+    "transliteration": "ʿalā",
+    "bangla": "উপর",
+    "english": "on; upon",
+    "frequency": 1445
+  },
+  {
+    "rank": 10,
+    "arabic": "كانَ",
+    "transliteration": "kāna",
+    "bangla": "ছিল; হয়েছিল",
+    "english": "was; used to be",
+    "frequency": 1358
+  },
+  {
+    "rank": 11,
+    "arabic": "ل",
+    "transliteration": "li",
+    "bangla": "জন্য; প্রতি; দিকে",
+    "english": "for; to; belonging to",
+    "frequency": 1299
+  },
+  {
+    "rank": 12,
+    "arabic": "ذا",
+    "transliteration": "dhā",
+    "bangla": "এই; এটি",
+    "english": "this; that (demonstrative)",
+    "frequency": 1058
+  },
+  {
+    "rank": 13,
+    "arabic": "رَبّ",
+    "transliteration": "rabb",
+    "bangla": "রব; প্রতিপালক",
+    "english": "Lord; Sustainer",
+    "frequency": 975
+  },
+  {
+    "rank": 14,
+    "arabic": "مَن",
+    "transliteration": "man",
+    "bangla": "যে; যে ব্যক্তি; যে কেউ",
+    "english": "who; whoever",
+    "frequency": 824
+  },
+  {
+    "rank": 15,
+    "arabic": "إِلَى",
+    "transliteration": "ilā",
+    "bangla": "দিকে; প্রতি",
+    "english": "to; towards",
+    "frequency": 742
+  },
+  {
+    "rank": 16,
+    "arabic": "إِن",
+    "transliteration": "in",
+    "bangla": "যদি",
+    "english": "if",
+    "frequency": 703
+  },
+  {
+    "rank": 17,
+    "arabic": "إِلّا",
+    "transliteration": "illā",
+    "bangla": "ছাড়া; ব্যতীত",
+    "english": "except; unless",
+    "frequency": 659
+  },
+  {
+    "rank": 18,
+    "arabic": "أَن",
+    "transliteration": "an",
+    "bangla": "যে; করতে",
+    "english": "that; to",
+    "frequency": 616
+  },
+  {
+    "rank": 19,
+    "arabic": "آمَنَ",
+    "transliteration": "āmana",
+    "bangla": "ঈমান আনা; বিশ্বাস করা",
+    "english": "to believe; to have faith",
+    "frequency": 537
+  },
+  {
+    "rank": 20,
+    "arabic": "ب",
+    "transliteration": "bi",
+    "bangla": "দ্বারা; সঙ্গে; দিয়ে",
+    "english": "by; with",
+    "frequency": 514
+  },
+  {
+    "rank": 21,
+    "arabic": "و",
+    "transliteration": "wa",
+    "bangla": "এবং",
+    "english": "and",
+    "frequency": 506
+  },
+  {
+    "rank": 22,
+    "arabic": "يَوْم",
+    "transliteration": "yawm",
+    "bangla": "দিন",
+    "english": "day",
+    "frequency": 475
+  },
+  {
+    "rank": 23,
+    "arabic": "عَن",
+    "transliteration": "ʿan",
+    "bangla": "থেকে; সম্পর্কে",
+    "english": "from; about",
+    "frequency": 465
+  },
+  {
+    "rank": 24,
+    "arabic": "أَرْض",
+    "transliteration": "arḍ",
+    "bangla": "পৃথিবী; জমিন",
+    "english": "earth; land",
+    "frequency": 461
+  },
+  {
+    "rank": 25,
+    "arabic": "إِذا",
+    "transliteration": "idhā",
+    "bangla": "যখন",
+    "english": "when",
+    "frequency": 423
+  },
+  {
+    "rank": 26,
+    "arabic": "قَد",
+    "transliteration": "qad",
+    "bangla": "নিশ্চয়; ইতোমধ্যে",
+    "english": "indeed; already",
+    "frequency": 406
+  },
+  {
+    "rank": 27,
+    "arabic": "قَوْم",
+    "transliteration": "qawm",
+    "bangla": "জাতি; সম্প্রদায়",
+    "english": "people; nation",
+    "frequency": 383
+  },
+  {
+    "rank": 28,
+    "arabic": "عَلِمَ",
+    "transliteration": "ʿalima",
+    "bangla": "জানা",
+    "english": "to know",
+    "frequency": 382
+  },
+  {
+    "rank": 29,
+    "arabic": "آيَة",
+    "transliteration": "āyah",
+    "bangla": "নিদর্শন; আয়াত",
+    "english": "sign; verse",
+    "frequency": 382
+  },
+  {
+    "rank": 30,
+    "arabic": "أَنَّ",
+    "transliteration": "anna",
+    "bangla": "যে; নিশ্চয় যে",
+    "english": "that; indeed that",
+    "frequency": 362
+  },
+  {
+    "rank": 31,
+    "arabic": "كُلّ",
+    "transliteration": "kull",
+    "bangla": "প্রত্যেক; সব",
+    "english": "every; all",
+    "frequency": 359
+  },
+  {
+    "rank": 32,
+    "arabic": "لَم",
+    "transliteration": "lam",
+    "bangla": "করেনি; নয়",
+    "english": "not (past negation)",
+    "frequency": 347
+  },
+  {
+    "rank": 33,
+    "arabic": "جَعَلَ",
+    "transliteration": "jaʿala",
+    "bangla": "করা; বানানো; স্থাপন করা",
+    "english": "to make; to place; to appoint",
+    "frequency": 340
+  },
+  {
+    "rank": 34,
+    "arabic": "ثُمّ",
+    "transliteration": "thumma",
+    "bangla": "তারপর",
+    "english": "then; thereafter",
+    "frequency": 338
+  },
+  {
+    "rank": 35,
+    "arabic": "رَسُول",
+    "transliteration": "rasūl",
+    "bangla": "রাসূল; বার্তাবাহক",
+    "english": "messenger",
+    "frequency": 332
+  },
+  {
+    "rank": 36,
+    "arabic": "عَذاب",
+    "transliteration": "ʿadhāb",
+    "bangla": "শাস্তি; আযাব",
+    "english": "punishment; torment",
+    "frequency": 322
+  },
+  {
+    "rank": 37,
+    "arabic": "سَماء",
+    "transliteration": "samāʾ",
+    "bangla": "আকাশ",
+    "english": "sky; heaven",
+    "frequency": 310
+  },
+  {
+    "rank": 38,
+    "arabic": "نَفْس",
+    "transliteration": "nafs",
+    "bangla": "আত্মা; নিজ; ব্যক্তি",
+    "english": "soul; self",
+    "frequency": 295
+  },
+  {
+    "rank": 39,
+    "arabic": "كَفَرَ",
+    "transliteration": "kafara",
+    "bangla": "অবিশ্বাস করা; কুফরি করা",
+    "english": "to disbelieve",
+    "frequency": 289
+  },
+  {
+    "rank": 40,
+    "arabic": "شَىْء",
+    "transliteration": "shayʾ",
+    "bangla": "বস্তু; কিছু; বিষয়",
+    "english": "thing; something",
+    "frequency": 283
+  },
+  {
+    "rank": 41,
+    "arabic": "أَو",
+    "transliteration": "aw",
+    "bangla": "অথবা",
+    "english": "or",
+    "frequency": 280
+  },
+  {
+    "rank": 42,
+    "arabic": "جاءَ",
+    "transliteration": "jāʾa",
+    "bangla": "আসা",
+    "english": "to come",
+    "frequency": 278
+  },
+  {
+    "rank": 43,
+    "arabic": "عَمِلَ",
+    "transliteration": "ʿamila",
+    "bangla": "কাজ করা; আমল করা",
+    "english": "to do; to act",
+    "frequency": 276
+  },
+  {
+    "rank": 44,
+    "arabic": "آتَى",
+    "transliteration": "ātā",
+    "bangla": "দেওয়া",
+    "english": "to give",
+    "frequency": 271
+  },
+  {
+    "rank": 45,
+    "arabic": "رَأَى",
+    "transliteration": "raʾā",
+    "bangla": "দেখা",
+    "english": "to see",
+    "frequency": 271
+  },
+  {
+    "rank": 46,
+    "arabic": "بَيْن",
+    "transliteration": "bayna",
+    "bangla": "মধ্যে; মাঝখানে",
+    "english": "between",
+    "frequency": 266
+  },
+  {
+    "rank": 47,
+    "arabic": "أَتَى",
+    "transliteration": "atā",
+    "bangla": "আসা; নিয়ে আসা",
+    "english": "to come; to bring",
+    "frequency": 264
+  },
+  {
+    "rank": 48,
+    "arabic": "كِتاب",
+    "transliteration": "kitāb",
+    "bangla": "কিতাব; গ্রন্থ",
+    "english": "book; scripture",
+    "frequency": 260
+  },
+  {
+    "rank": 49,
+    "arabic": "حَقّ",
+    "transliteration": "ḥaqq",
+    "bangla": "সত্য; হক",
+    "english": "truth; right",
+    "frequency": 247
+  },
+  {
+    "rank": 50,
+    "arabic": "قَبْل",
+    "transliteration": "qabl",
+    "bangla": "আগে; পূর্বে",
+    "english": "before",
+    "frequency": 242
+  },
+  {
+    "rank": 51,
+    "arabic": "ناس",
+    "transliteration": "nās",
+    "bangla": "মানুষ; মানবজাতি",
+    "english": "people; mankind",
+    "frequency": 241
+  },
+  {
+    "rank": 52,
+    "arabic": "إِذ",
+    "transliteration": "idh",
+    "bangla": "যখন",
+    "english": "when",
+    "frequency": 239
+  },
+  {
+    "rank": 53,
+    "arabic": "شاءَ",
+    "transliteration": "shāʾa",
+    "bangla": "ইচ্ছা করা",
+    "english": "to will; to wish",
+    "frequency": 236
+  },
+  {
+    "rank": 54,
+    "arabic": "أَيّ",
+    "transliteration": "ay",
+    "bangla": "কোন; যেকোন",
+    "english": "which; whichever",
+    "frequency": 215
+  },
+  {
+    "rank": 55,
+    "arabic": "مُؤْمِن",
+    "transliteration": "muʾmin",
+    "bangla": "মুমিন; বিশ্বাসী",
+    "english": "believer",
+    "frequency": 202
+  },
+  {
+    "rank": 56,
+    "arabic": "لَو",
+    "transliteration": "law",
+    "bangla": "যদি",
+    "english": "if (only)",
+    "frequency": 200
+  },
+  {
+    "rank": 57,
+    "arabic": "بَعْد",
+    "transliteration": "baʿd",
+    "bangla": "পরে; পর",
+    "english": "after",
+    "frequency": 199
+  },
+  {
+    "rank": 58,
+    "arabic": "عِند",
+    "transliteration": "ʿind",
+    "bangla": "কাছে; নিকট",
+    "english": "near; with",
+    "frequency": 197
+  },
+  {
+    "rank": 59,
+    "arabic": "خَلَقَ",
+    "transliteration": "khalaqa",
+    "bangla": "সৃষ্টি করা",
+    "english": "to create",
+    "frequency": 184
+  },
+  {
+    "rank": 60,
+    "arabic": "أَنزَلَ",
+    "transliteration": "anzala",
+    "bangla": "অবতীর্ণ করা; নাযিল করা",
+    "english": "to send down; to reveal",
+    "frequency": 183
+  },
+  {
+    "rank": 61,
+    "arabic": "خَيْر",
+    "transliteration": "khayr",
+    "bangla": "কল্যাণ; উত্তম",
+    "english": "good; better",
+    "frequency": 178
+  },
+  {
+    "rank": 62,
+    "arabic": "كَذَّبَ",
+    "transliteration": "kadhdhaba",
+    "bangla": "মিথ্যা প্রতিপন্ন করা; অস্বীকার করা",
+    "english": "to deny; to call a liar",
+    "frequency": 176
+  },
+  {
+    "rank": 63,
+    "arabic": "سَبِيل",
+    "transliteration": "sabīl",
+    "bangla": "পথ",
+    "english": "way; path",
+    "frequency": 176
+  },
+  {
+    "rank": 64,
+    "arabic": "دَعا",
+    "transliteration": "daʿā",
+    "bangla": "ডাকা; আহ্বান করা",
+    "english": "to call; to invoke",
+    "frequency": 170
+  },
+  {
+    "rank": 65,
+    "arabic": "اتَّقَى",
+    "transliteration": "ittaqā",
+    "bangla": "তাকওয়া অবলম্বন করা; ভয় করা",
+    "english": "to be mindful of Allah; to fear",
+    "frequency": 166
+  },
+  {
+    "rank": 66,
+    "arabic": "أَمْر",
+    "transliteration": "amr",
+    "bangla": "বিষয়; আদেশ; ব্যাপার",
+    "english": "matter; command; affair",
+    "frequency": 166
+  },
+  {
+    "rank": 67,
+    "arabic": "لَمّا",
+    "transliteration": "lammā",
+    "bangla": "যখন; এখনও নয়",
+    "english": "when; not yet",
+    "frequency": 165
+  },
+  {
+    "rank": 68,
+    "arabic": "مَع",
+    "transliteration": "maʿa",
+    "bangla": "সঙ্গে",
+    "english": "with",
+    "frequency": 164
+  },
+  {
+    "rank": 69,
+    "arabic": "عَلِيم",
+    "transliteration": "ʿalīm",
+    "bangla": "সর্বজ্ঞ; সর্বজ্ঞানী",
+    "english": "All-Knowing",
+    "frequency": 163
+  },
+  {
+    "rank": 70,
+    "arabic": "بَعْض",
+    "transliteration": "baʿḍ",
+    "bangla": "কিছু; কয়েকজন",
+    "english": "some; part of",
+    "frequency": 157
+  },
+  {
+    "rank": 71,
+    "arabic": "كافِر",
+    "transliteration": "kāfir",
+    "bangla": "কাফির; অবিশ্বাসী",
+    "english": "disbeliever",
+    "frequency": 156
+  },
+  {
+    "rank": 72,
+    "arabic": "ذُو",
+    "transliteration": "dhū",
+    "bangla": "অধিকারী; মালিক",
+    "english": "possessor of",
+    "frequency": 156
+  },
+  {
+    "rank": 73,
+    "arabic": "آخِر",
+    "transliteration": "ākhir",
+    "bangla": "শেষ; পরকাল",
+    "english": "last; the Hereafter",
+    "frequency": 155
+  },
+  {
+    "rank": 74,
+    "arabic": "غَيْر",
+    "transliteration": "ghayr",
+    "bangla": "ব্যতীত; ছাড়া; অন্য",
+    "english": "other than; without",
+    "frequency": 147
+  },
+  {
+    "rank": 75,
+    "arabic": "جَنَّة",
+    "transliteration": "jannah",
+    "bangla": "জান্নাত; উদ্যান",
+    "english": "paradise; garden",
+    "frequency": 147
+  },
+  {
+    "rank": 76,
+    "arabic": "إِلٰه",
+    "transliteration": "ilāh",
+    "bangla": "উপাস্য; ইলাহ",
+    "english": "god; deity",
+    "frequency": 147
+  },
+  {
+    "rank": 77,
+    "arabic": "نار",
+    "transliteration": "nār",
+    "bangla": "আগুন; জাহান্নামের আগুন",
+    "english": "fire",
+    "frequency": 145
+  },
+  {
+    "rank": 78,
+    "arabic": "هَدَى",
+    "transliteration": "hadā",
+    "bangla": "পথ দেখানো; হিদায়াত দেওয়া",
+    "english": "to guide",
+    "frequency": 144
+  },
+  {
+    "rank": 79,
+    "arabic": "دُون",
+    "transliteration": "dūn",
+    "bangla": "ছাড়া; ব্যতীত; নিচে",
+    "english": "besides; other than",
+    "frequency": 144
+  },
+  {
+    "rank": 80,
+    "arabic": "حَتَّى",
+    "transliteration": "ḥattā",
+    "bangla": "পর্যন্ত; যাতে",
+    "english": "until; so that",
+    "frequency": 142
+  },
+  {
+    "rank": 81,
+    "arabic": "أَرادَ",
+    "transliteration": "arāda",
+    "bangla": "ইচ্ছা করা",
+    "english": "to intend; to will",
+    "frequency": 139
+  },
+  {
+    "rank": 82,
+    "arabic": "أَم",
+    "transliteration": "am",
+    "bangla": "অথবা",
+    "english": "or",
+    "frequency": 137
+  },
+  {
+    "rank": 83,
+    "arabic": "مُوسَى",
+    "transliteration": "Mūsā",
+    "bangla": "মূসা (আ.)",
+    "english": "Musa (Moses)",
+    "frequency": 136
+  },
+  {
+    "rank": 84,
+    "arabic": "اتَّبَعَ",
+    "transliteration": "ittabaʿa",
+    "bangla": "অনুসরণ করা",
+    "english": "to follow",
+    "frequency": 136
+  },
+  {
+    "rank": 85,
+    "arabic": "قَلْب",
+    "transliteration": "qalb",
+    "bangla": "হৃদয়; অন্তর",
+    "english": "heart",
+    "frequency": 132
+  },
+  {
+    "rank": 86,
+    "arabic": "عَبْد",
+    "transliteration": "ʿabd",
+    "bangla": "বান্দা; দাস",
+    "english": "servant; slave",
+    "frequency": 131
+  },
+  {
+    "rank": 87,
+    "arabic": "أَرْسَلَ",
+    "transliteration": "arsala",
+    "bangla": "প্রেরণ করা",
+    "english": "to send",
+    "frequency": 130
+  },
+  {
+    "rank": 88,
+    "arabic": "لَعَلّ",
+    "transliteration": "laʿalla",
+    "bangla": "সম্ভবত; যাতে",
+    "english": "perhaps; so that",
+    "frequency": 129
+  },
+  {
+    "rank": 89,
+    "arabic": "ظالِم",
+    "transliteration": "ẓālim",
+    "bangla": "জালিম; অত্যাচারী",
+    "english": "wrongdoer",
+    "frequency": 129
+  },
+  {
+    "rank": 90,
+    "arabic": "أَخَذَ",
+    "transliteration": "akhadha",
+    "bangla": "গ্রহণ করা; নেওয়া",
+    "english": "to take; to seize",
+    "frequency": 127
+  },
+  {
+    "rank": 91,
+    "arabic": "بَل",
+    "transliteration": "bal",
+    "bangla": "বরং",
+    "english": "rather; nay",
+    "frequency": 127
+  },
+  {
+    "rank": 92,
+    "arabic": "أَهْل",
+    "transliteration": "ahl",
+    "bangla": "লোকজন; পরিবার; অধিবাসী",
+    "english": "people; family",
+    "frequency": 127
+  },
+  {
+    "rank": 93,
+    "arabic": "اتَّخَذَ",
+    "transliteration": "ittakhadha",
+    "bangla": "গ্রহণ করা; বানানো",
+    "english": "to take; to adopt",
+    "frequency": 124
+  },
+  {
+    "rank": 94,
+    "arabic": "عَبَدَ",
+    "transliteration": "ʿabada",
+    "bangla": "ইবাদত করা; উপাসনা করা",
+    "english": "to worship",
+    "frequency": 122
+  },
+  {
+    "rank": 95,
+    "arabic": "يَد",
+    "transliteration": "yad",
+    "bangla": "হাত",
+    "english": "hand",
+    "frequency": 120
+  },
+  {
+    "rank": 96,
+    "arabic": "مُبِين",
+    "transliteration": "mubīn",
+    "bangla": "স্পষ্ট; সুস্পষ্ট",
+    "english": "clear; evident",
+    "frequency": 119
+  },
+  {
+    "rank": 97,
+    "arabic": "رَحِيم",
+    "transliteration": "raḥīm",
+    "bangla": "পরম দয়ালু",
+    "english": "Most Merciful",
+    "frequency": 116
+  },
+  {
+    "rank": 98,
+    "arabic": "دُنْيا",
+    "transliteration": "dunyā",
+    "bangla": "দুনিয়া; পার্থিব জীবন",
+    "english": "worldly life",
+    "frequency": 115
+  },
+  {
+    "rank": 99,
+    "arabic": "رَحْمَة",
+    "transliteration": "raḥmah",
+    "bangla": "রহমত; দয়া",
+    "english": "mercy",
+    "frequency": 114
+  },
+  {
+    "rank": 100,
+    "arabic": "ظَلَمَ",
+    "transliteration": "ẓalama",
+    "bangla": "জুলুম করা; অন্যায় করা",
+    "english": "to wrong; to do injustice",
+    "frequency": 110
+  },
+  {
+    "rank": 101,
+    "arabic": "عَظِيم",
+    "transliteration": "ʿaẓīm",
+    "bangla": "মহান; বিরাট",
+    "english": "great; mighty",
+    "frequency": 107
+  },
+  {
+    "rank": 102,
+    "arabic": "سَأَلَ",
+    "transliteration": "saʾala",
+    "bangla": "জিজ্ঞাসা করা",
+    "english": "to ask",
+    "frequency": 106
+  },
+  {
+    "rank": 103,
+    "arabic": "وَجَدَ",
+    "transliteration": "wajada",
+    "bangla": "পাওয়া",
+    "english": "to find",
+    "frequency": 106
+  },
+  {
+    "rank": 104,
+    "arabic": "عِلْم",
+    "transliteration": "ʿilm",
+    "bangla": "জ্ঞান",
+    "english": "knowledge",
+    "frequency": 105
+  },
+  {
+    "rank": 105,
+    "arabic": "أَجْر",
+    "transliteration": "ajr",
+    "bangla": "প্রতিদান; পুরস্কার",
+    "english": "reward",
+    "frequency": 105
+  },
+  {
+    "rank": 106,
+    "arabic": "لَن",
+    "transliteration": "lan",
+    "bangla": "কখনো নয়; হবে না",
+    "english": "never (future negation)",
+    "frequency": 104
+  },
+  {
+    "rank": 107,
+    "arabic": "ف",
+    "transliteration": "fa",
+    "bangla": "অতঃপর; তাই; সুতরাং",
+    "english": "then; so",
+    "frequency": 103
+  },
+  {
+    "rank": 108,
+    "arabic": "عَزِيز",
+    "transliteration": "ʿazīz",
+    "bangla": "পরাক্রমশালী; মহাশক্তিমান",
+    "english": "Almighty; Mighty",
+    "frequency": 101
+  },
+  {
+    "rank": 109,
+    "arabic": "أَخْرَجَ",
+    "transliteration": "akhraja",
+    "bangla": "বের করা",
+    "english": "to bring out; to expel",
+    "frequency": 99
+  },
+  {
+    "rank": 110,
+    "arabic": "حَكِيم",
+    "transliteration": "ḥakīm",
+    "bangla": "প্রজ্ঞাময়; প্রজ্ঞাবান",
+    "english": "All-Wise",
+    "frequency": 97
+  },
+  {
+    "rank": 111,
+    "arabic": "أَكَلَ",
+    "transliteration": "akala",
+    "bangla": "খাওয়া",
+    "english": "to eat",
+    "frequency": 93
+  },
+  {
+    "rank": 112,
+    "arabic": "هَل",
+    "transliteration": "hal",
+    "bangla": "কি?",
+    "english": "is? (question particle)",
+    "frequency": 93
+  },
+  {
+    "rank": 113,
+    "arabic": "دِين",
+    "transliteration": "dīn",
+    "bangla": "দ্বীন; ধর্ম; জীবনব্যবস্থা",
+    "english": "religion; way of life",
+    "frequency": 92
+  },
+  {
+    "rank": 114,
+    "arabic": "قَوْل",
+    "transliteration": "qawl",
+    "bangla": "কথা; বাণী",
+    "english": "word; saying",
+    "frequency": 92
+  },
+  {
+    "rank": 115,
+    "arabic": "غَفُور",
+    "transliteration": "ghafūr",
+    "bangla": "পরম ক্ষমাশীল",
+    "english": "Oft-Forgiving",
+    "frequency": 91
+  },
+  {
+    "rank": 116,
+    "arabic": "لَيْسَ",
+    "transliteration": "laysa",
+    "bangla": "নয়; নেই",
+    "english": "is not; are not",
+    "frequency": 89
+  },
+  {
+    "rank": 117,
+    "arabic": "شَيْطان",
+    "transliteration": "shayṭān",
+    "bangla": "শয়তান",
+    "english": "Satan",
+    "frequency": 88
+  },
+  {
+    "rank": 118,
+    "arabic": "مَثَل",
+    "transliteration": "mathal",
+    "bangla": "উদাহরণ; দৃষ্টান্ত",
+    "english": "example; parable",
+    "frequency": 88
+  },
+  {
+    "rank": 119,
+    "arabic": "فَعَلَ",
+    "transliteration": "faʿala",
+    "bangla": "করা",
+    "english": "to do",
+    "frequency": 88
+  },
+  {
+    "rank": 120,
+    "arabic": "مَلَك",
+    "transliteration": "malak",
+    "bangla": "ফেরেশতা",
+    "english": "angel",
+    "frequency": 88
+  },
+  {
+    "rank": 121,
+    "arabic": "نَظَرَ",
+    "transliteration": "naẓara",
+    "bangla": "দেখা; লক্ষ্য করা",
+    "english": "to look; to see",
+    "frequency": 87
+  },
+  {
+    "rank": 122,
+    "arabic": "وَلِيّ",
+    "transliteration": "walī",
+    "bangla": "অভিভাবক; বন্ধু; সাহায্যকারী",
+    "english": "protector; ally",
+    "frequency": 86
+  },
+  {
+    "rank": 123,
+    "arabic": "مال",
+    "transliteration": "māl",
+    "bangla": "সম্পদ; ধন",
+    "english": "wealth; property",
+    "frequency": 86
+  },
+  {
+    "rank": 124,
+    "arabic": "هُدًى",
+    "transliteration": "hudā",
+    "bangla": "হিদায়াত; পথনির্দেশ",
+    "english": "guidance",
+    "frequency": 85
+  },
+  {
+    "rank": 125,
+    "arabic": "ذَكَرَ",
+    "transliteration": "dhakara",
+    "bangla": "স্মরণ করা; উল্লেখ করা",
+    "english": "to remember; to mention",
+    "frequency": 84
+  },
+  {
+    "rank": 126,
+    "arabic": "فَضْل",
+    "transliteration": "faḍl",
+    "bangla": "অনুগ্রহ; মর্যাদা",
+    "english": "favour; grace",
+    "frequency": 84
+  },
+  {
+    "rank": 127,
+    "arabic": "لَيْل",
+    "transliteration": "layl",
+    "bangla": "রাত",
+    "english": "night",
+    "frequency": 84
+  },
+  {
+    "rank": 128,
+    "arabic": "صَلاة",
+    "transliteration": "ṣalāh",
+    "bangla": "সালাত; নামাজ",
+    "english": "prayer; salah",
+    "frequency": 83
+  },
+  {
+    "rank": 129,
+    "arabic": "كَيْف",
+    "transliteration": "kayfa",
+    "bangla": "কীভাবে; কেমন",
+    "english": "how",
+    "frequency": 83
+  },
+  {
+    "rank": 130,
+    "arabic": "قَتَلَ",
+    "transliteration": "qatala",
+    "bangla": "হত্যা করা",
+    "english": "to kill",
+    "frequency": 83
+  },
+  {
+    "rank": 131,
+    "arabic": "خافَ",
+    "transliteration": "khāfa",
+    "bangla": "ভয় করা",
+    "english": "to fear",
+    "frequency": 83
+  },
+  {
+    "rank": 132,
+    "arabic": "أَوَّل",
+    "transliteration": "awwal",
+    "bangla": "প্রথম; পূর্ববর্তী",
+    "english": "first; former",
+    "frequency": 82
+  },
+  {
+    "rank": 133,
+    "arabic": "بُنَىّ",
+    "transliteration": "bunayy",
+    "bangla": "সন্তান; বাচ্চা",
+    "english": "my son; child",
+    "frequency": 80
+  },
+  {
+    "rank": 134,
+    "arabic": "أَكْثَر",
+    "transliteration": "akthar",
+    "bangla": "অধিক; অধিকাংশ",
+    "english": "most; majority",
+    "frequency": 80
+  },
+  {
+    "rank": 135,
+    "arabic": "رَجَعَ",
+    "transliteration": "rajaʿa",
+    "bangla": "ফিরে আসা",
+    "english": "to return",
+    "frequency": 79
+  },
+  {
+    "rank": 136,
+    "arabic": "أَصْحاب",
+    "transliteration": "aṣḥāb",
+    "bangla": "সঙ্গী; সাহাবি; অধিবাসী",
+    "english": "companions; people (of)",
+    "frequency": 78
+  },
+  {
+    "rank": 137,
+    "arabic": "تَوَلَّى",
+    "transliteration": "tawallā",
+    "bangla": "ফিরে যাওয়া; মুখ ফিরিয়ে নেওয়া",
+    "english": "to turn away",
+    "frequency": 78
+  },
+  {
+    "rank": 138,
+    "arabic": "سَمِعَ",
+    "transliteration": "samiʿa",
+    "bangla": "শোনা",
+    "english": "to hear",
+    "frequency": 78
+  },
+  {
+    "rank": 139,
+    "arabic": "أَمَرَ",
+    "transliteration": "amara",
+    "bangla": "আদেশ করা",
+    "english": "to command",
+    "frequency": 77
+  },
+  {
+    "rank": 140,
+    "arabic": "جَهَنَّم",
+    "transliteration": "jahannam",
+    "bangla": "জাহান্নাম",
+    "english": "Hellfire",
+    "frequency": 77
+  },
+  {
+    "rank": 141,
+    "arabic": "زَوْج",
+    "transliteration": "zawj",
+    "bangla": "জোড়া; স্ত্রী/স্বামী",
+    "english": "pair; spouse",
+    "frequency": 76
+  },
+  {
+    "rank": 142,
+    "arabic": "دَخَلَ",
+    "transliteration": "dakhala",
+    "bangla": "প্রবেশ করা",
+    "english": "to enter",
+    "frequency": 76
+  },
+  {
+    "rank": 143,
+    "arabic": "حَياة",
+    "transliteration": "ḥayāh",
+    "bangla": "জীবন",
+    "english": "life",
+    "frequency": 76
+  },
+  {
+    "rank": 144,
+    "arabic": "ذِكْر",
+    "transliteration": "dhikr",
+    "bangla": "স্মরণ; জিকির",
+    "english": "remembrance",
+    "frequency": 76
+  },
+  {
+    "rank": 145,
+    "arabic": "مِثْل",
+    "transliteration": "mithl",
+    "bangla": "মত; অনুরূপ",
+    "english": "like; similar to",
+    "frequency": 75
+  },
+  {
+    "rank": 146,
+    "arabic": "نَبِيّ",
+    "transliteration": "nabī",
+    "bangla": "নবী",
+    "english": "prophet",
+    "frequency": 75
+  },
+  {
+    "rank": 147,
+    "arabic": "لَوْلا",
+    "transliteration": "lawlā",
+    "bangla": "যদি না; কেন নয়",
+    "english": "if not; were it not",
+    "frequency": 75
+  },
+  {
+    "rank": 148,
+    "arabic": "أَخ",
+    "transliteration": "akh",
+    "bangla": "ভাই",
+    "english": "brother",
+    "frequency": 75
+  },
+  {
+    "rank": 149,
+    "arabic": "خالِد",
+    "transliteration": "khālid",
+    "bangla": "চিরস্থায়ী; স্থায়ী",
+    "english": "eternal; abiding forever",
+    "frequency": 74
+  },
+  {
+    "rank": 150,
+    "arabic": "فِرْعَوْن",
+    "transliteration": "firʿawn",
+    "bangla": "ফেরাউন",
+    "english": "Pharaoh",
+    "frequency": 74
+  },
+  {
+    "rank": 151,
+    "arabic": "صالِح",
+    "transliteration": "ṣāliḥ",
+    "bangla": "সৎ; নেককার",
+    "english": "righteous",
+    "frequency": 74
+  },
+  {
+    "rank": 152,
+    "arabic": "أَحَد",
+    "transliteration": "aḥad",
+    "bangla": "কেউ; এক",
+    "english": "anyone; one",
+    "frequency": 74
+  },
+  {
+    "rank": 153,
+    "arabic": "عالَم",
+    "transliteration": "ʿālam",
+    "bangla": "জগত; বিশ্ব",
+    "english": "world; realm",
+    "frequency": 73
+  },
+  {
+    "rank": 154,
+    "arabic": "جَزَى",
+    "transliteration": "jazā",
+    "bangla": "প্রতিদান দেওয়া",
+    "english": "to reward; to recompense",
+    "frequency": 73
+  },
+  {
+    "rank": 155,
+    "arabic": "أَلِيم",
+    "transliteration": "alīm",
+    "bangla": "যন্ত্রণাদায়ক; বেদনাদায়ক",
+    "english": "painful",
+    "frequency": 72
+  },
+  {
+    "rank": 156,
+    "arabic": "وَجْه",
+    "transliteration": "wajh",
+    "bangla": "মুখমণ্ডল; চেহারা",
+    "english": "face",
+    "frequency": 72
+  },
+  {
+    "rank": 157,
+    "arabic": "أَطاعَ",
+    "transliteration": "aṭāʿa",
+    "bangla": "আনুগত্য করা",
+    "english": "to obey",
+    "frequency": 72
+  },
+  {
+    "rank": 158,
+    "arabic": "أَوْحَى",
+    "transliteration": "awḥā",
+    "bangla": "ওহি করা; প্রত্যাদেশ করা",
+    "english": "to reveal; to inspire",
+    "frequency": 72
+  },
+  {
+    "rank": 159,
+    "arabic": "إِنسان",
+    "transliteration": "insān",
+    "bangla": "মানুষ; মানব",
+    "english": "human being",
+    "frequency": 71
+  },
+  {
+    "rank": 160,
+    "arabic": "بَيِّنَة",
+    "transliteration": "bayyinah",
+    "bangla": "সুস্পষ্ট প্রমাণ",
+    "english": "clear proof",
+    "frequency": 71
+  },
+  {
+    "rank": 161,
+    "arabic": "أَشْرَكَ",
+    "transliteration": "ashraka",
+    "bangla": "শরিক করা; অংশীদার করা",
+    "english": "to associate partners (with Allah)",
+    "frequency": 71
+  },
+  {
+    "rank": 162,
+    "arabic": "عَمَل",
+    "transliteration": "ʿamal",
+    "bangla": "কাজ; আমল",
+    "english": "deed; action",
+    "frequency": 71
+  },
+  {
+    "rank": 163,
+    "arabic": "أَلْقَى",
+    "transliteration": "alqā",
+    "bangla": "নিক্ষেপ করা",
+    "english": "to throw; to cast",
+    "frequency": 71
+  },
+  {
+    "rank": 164,
+    "arabic": "قَلِيل",
+    "transliteration": "qalīl",
+    "bangla": "অল্প; সামান্য",
+    "english": "little; few",
+    "frequency": 70
+  },
+  {
+    "rank": 165,
+    "arabic": "قِيامَة",
+    "transliteration": "qiyāmah",
+    "bangla": "কিয়ামত; পুনরুত্থান",
+    "english": "resurrection",
+    "frequency": 70
+  },
+  {
+    "rank": 166,
+    "arabic": "آخَر",
+    "transliteration": "ākhir",
+    "bangla": "অন্য; অপর",
+    "english": "another; other",
+    "frequency": 70
+  },
+  {
+    "rank": 167,
+    "arabic": "قُرْءان",
+    "transliteration": "qurʾān",
+    "bangla": "কুরআন",
+    "english": "Qur'an",
+    "frequency": 70
+  },
+  {
+    "rank": 168,
+    "arabic": "وَعَدَ",
+    "transliteration": "waʿada",
+    "bangla": "প্রতিশ্রুতি দেওয়া",
+    "english": "to promise",
+    "frequency": 70
+  },
+  {
+    "rank": 169,
+    "arabic": "إِبْراهِيم",
+    "transliteration": "Ibrāhīm",
+    "bangla": "ইবরাহিম (আ.)",
+    "english": "Ibrahim (Abraham)",
+    "frequency": 69
+  },
+  {
+    "rank": 170,
+    "arabic": "أَنفَقَ",
+    "transliteration": "anfaqa",
+    "bangla": "ব্যয় করা",
+    "english": "to spend (in charity)",
+    "frequency": 68
+  },
+  {
+    "rank": 171,
+    "arabic": "لٰكِن",
+    "transliteration": "lākin",
+    "bangla": "কিন্তু",
+    "english": "but",
+    "frequency": 65
+  },
+  {
+    "rank": 172,
+    "arabic": "غَفَرَ",
+    "transliteration": "ghafara",
+    "bangla": "ক্ষমা করা",
+    "english": "to forgive",
+    "frequency": 65
+  },
+  {
+    "rank": 173,
+    "arabic": "لٰكِنّ",
+    "transliteration": "lākinna",
+    "bangla": "কিন্তু; তবে",
+    "english": "but",
+    "frequency": 65
+  },
+  {
+    "rank": 174,
+    "arabic": "بَيْت",
+    "transliteration": "bayt",
+    "bangla": "ঘর; বাড়ি",
+    "english": "house",
+    "frequency": 65
+  },
+  {
+    "rank": 175,
+    "arabic": "يَمِين",
+    "transliteration": "yamīn",
+    "bangla": "ডান হাত; শপথ",
+    "english": "right hand; oath",
+    "frequency": 65
+  },
+  {
+    "rank": 176,
+    "arabic": "أَضَلَّ",
+    "transliteration": "aḍalla",
+    "bangla": "পথভ্রষ্ট করা",
+    "english": "to lead astray",
+    "frequency": 64
+  },
+  {
+    "rank": 177,
+    "arabic": "أُمَّة",
+    "transliteration": "ummah",
+    "bangla": "জাতি; উম্মত",
+    "english": "nation; community",
+    "frequency": 64
+  },
+  {
+    "rank": 178,
+    "arabic": "آباء",
+    "transliteration": "ābāʾ",
+    "bangla": "পিতৃপুরুষ; পূর্বপুরুষ",
+    "english": "forefathers",
+    "frequency": 64
+  },
+  {
+    "rank": 179,
+    "arabic": "أَصابَ",
+    "transliteration": "aṣāba",
+    "bangla": "আক্রান্ত হওয়া; পৌঁছানো",
+    "english": "to befall; to reach",
+    "frequency": 64
+  },
+  {
+    "rank": 180,
+    "arabic": "أَحْبَب",
+    "transliteration": "aḥabba",
+    "bangla": "ভালোবাসা",
+    "english": "to love",
+    "frequency": 64
+  },
+  {
+    "rank": 181,
+    "arabic": "ماء",
+    "transliteration": "māʾ",
+    "bangla": "পানি",
+    "english": "water",
+    "frequency": 63
+  },
+  {
+    "rank": 182,
+    "arabic": "كَثِير",
+    "transliteration": "kathīr",
+    "bangla": "অনেক; অধিক",
+    "english": "much; many",
+    "frequency": 63
+  },
+  {
+    "rank": 183,
+    "arabic": "تابَ",
+    "transliteration": "tāba",
+    "bangla": "তওবা করা",
+    "english": "to repent",
+    "frequency": 63
+  },
+  {
+    "rank": 184,
+    "arabic": "ابْن",
+    "transliteration": "ibn",
+    "bangla": "পুত্র; ছেলে",
+    "english": "son",
+    "frequency": 63
+  },
+  {
+    "rank": 185,
+    "arabic": "نَزَّلَ",
+    "transliteration": "nazzala",
+    "bangla": "নাযিল করা; অবতীর্ণ করা",
+    "english": "to send down (gradually)",
+    "frequency": 62
+  },
+  {
+    "rank": 186,
+    "arabic": "صالِحَة",
+    "transliteration": "ṣāliḥah",
+    "bangla": "সৎকর্ম; নেক আমল",
+    "english": "righteous deeds",
+    "frequency": 62
+  },
+  {
+    "rank": 187,
+    "arabic": "كَسَبَ",
+    "transliteration": "kasaba",
+    "bangla": "অর্জন করা",
+    "english": "to earn",
+    "frequency": 62
+  },
+  {
+    "rank": 188,
+    "arabic": "رَزَقَ",
+    "transliteration": "razaqa",
+    "bangla": "রিযিক দেওয়া",
+    "english": "to provide sustenance",
+    "frequency": 61
+  },
+  {
+    "rank": 189,
+    "arabic": "تَلَى",
+    "transliteration": "talā",
+    "bangla": "তিলাওয়াত করা; পাঠ করা",
+    "english": "to recite",
+    "frequency": 61
+  },
+  {
+    "rank": 190,
+    "arabic": "صادِق",
+    "transliteration": "ṣādiq",
+    "bangla": "সত্যবাদী",
+    "english": "truthful",
+    "frequency": 59
+  },
+  {
+    "rank": 191,
+    "arabic": "نَصَرَ",
+    "transliteration": "naṣara",
+    "bangla": "সাহায্য করা",
+    "english": "to help",
+    "frequency": 59
+  },
+  {
+    "rank": 192,
+    "arabic": "نِساء",
+    "transliteration": "nisāʾ",
+    "bangla": "নারী; নারীগণ",
+    "english": "women",
+    "frequency": 59
+  },
+  {
+    "rank": 193,
+    "arabic": "قَضَى",
+    "transliteration": "qaḍā",
+    "bangla": "ফয়সালা করা; নির্ধারণ করা",
+    "english": "to decree; to decide",
+    "frequency": 59
+  },
+  {
+    "rank": 194,
+    "arabic": "صَبَرَ",
+    "transliteration": "ṣabara",
+    "bangla": "ধৈর্য ধরা",
+    "english": "to be patient",
+    "frequency": 58
+  },
+  {
+    "rank": 195,
+    "arabic": "سَيِّئَة",
+    "transliteration": "sayyiʾah",
+    "bangla": "মন্দ কাজ; পাপ",
+    "english": "evil deed; sin",
+    "frequency": 58
+  },
+  {
+    "rank": 196,
+    "arabic": "نَذِير",
+    "transliteration": "nadhīr",
+    "bangla": "সতর্ককারী",
+    "english": "warner",
+    "frequency": 58
+  },
+  {
+    "rank": 197,
+    "arabic": "رَحْمٰن",
+    "transliteration": "raḥmān",
+    "bangla": "পরম করুণাময়",
+    "english": "Most Gracious",
+    "frequency": 57
+  },
+  {
+    "rank": 198,
+    "arabic": "جَرَى",
+    "transliteration": "jarā",
+    "bangla": "প্রবাহিত হওয়া",
+    "english": "to flow",
+    "frequency": 57
+  },
+  {
+    "rank": 199,
+    "arabic": "قَرْيَة",
+    "transliteration": "qaryah",
+    "bangla": "জনপদ; নগর",
+    "english": "town; village",
+    "frequency": 57
+  },
+  {
+    "rank": 200,
+    "arabic": "عَيْن",
+    "transliteration": "ʿayn",
+    "bangla": "চোখ; ঝরনা",
+    "english": "eye; spring",
+    "frequency": 57
+  },
+  {
+    "rank": 201,
+    "arabic": "نَهار",
+    "transliteration": "nahār",
+    "bangla": "দিন; দিনের সময়",
+    "english": "daytime",
+    "frequency": 57
+  },
+  {
+    "rank": 202,
+    "arabic": "شَهِيد",
+    "transliteration": "shahīd",
+    "bangla": "সাক্ষী",
+    "english": "witness",
+    "frequency": 56
+  },
+  {
+    "rank": 203,
+    "arabic": "مَسَّ",
+    "transliteration": "massa",
+    "bangla": "স্পর্শ করা",
+    "english": "to touch",
+    "frequency": 56
+  },
+  {
+    "rank": 204,
+    "arabic": "وَلَد",
+    "transliteration": "walad",
+    "bangla": "সন্তান; পুত্র",
+    "english": "child; offspring",
+    "frequency": 56
+  },
+  {
+    "rank": 205,
+    "arabic": "شَدِيد",
+    "transliteration": "shadīd",
+    "bangla": "কঠিন; তীব্র",
+    "english": "severe; intense",
+    "frequency": 56
+  },
+  {
+    "rank": 206,
+    "arabic": "رِزْق",
+    "transliteration": "rizq",
+    "bangla": "রিযিক; জীবিকা",
+    "english": "provision; sustenance",
+    "frequency": 55
+  },
+  {
+    "rank": 207,
+    "arabic": "ضَرَبَ",
+    "transliteration": "ḍaraba",
+    "bangla": "উপমা দেওয়া; প্রয়োগ করা",
+    "english": "to strike; to give (an example)",
+    "frequency": 55
+  },
+  {
+    "rank": 208,
+    "arabic": "أَمّا",
+    "transliteration": "ammā",
+    "bangla": "আর যা; পক্ষান্তরে",
+    "english": "as for; but",
+    "frequency": 55
+  },
+  {
+    "rank": 209,
+    "arabic": "أَقامَ",
+    "transliteration": "aqāma",
+    "bangla": "প্রতিষ্ঠা করা; কায়েম করা",
+    "english": "to establish",
+    "frequency": 54
+  },
+  {
+    "rank": 210,
+    "arabic": "نَهَر",
+    "transliteration": "nahar",
+    "bangla": "নদী",
+    "english": "river",
+    "frequency": 54
+  },
+  {
+    "rank": 211,
+    "arabic": "قاتَلَ",
+    "transliteration": "qātala",
+    "bangla": "যুদ্ধ করা",
+    "english": "to fight",
+    "frequency": 54
+  },
+  {
+    "rank": 212,
+    "arabic": "جَمِيع",
+    "transliteration": "jamīʿ",
+    "bangla": "সমস্ত; সবাই",
+    "english": "all; entire",
+    "frequency": 53
+  },
+  {
+    "rank": 213,
+    "arabic": "خَرَجَ",
+    "transliteration": "kharaja",
+    "bangla": "বের হওয়া",
+    "english": "to go out; to leave",
+    "frequency": 53
+  },
+  {
+    "rank": 214,
+    "arabic": "ضَلَّ",
+    "transliteration": "ḍalla",
+    "bangla": "পথভ্রষ্ট হওয়া",
+    "english": "to go astray",
+    "frequency": 53
+  },
+  {
+    "rank": 215,
+    "arabic": "بَعَثَ",
+    "transliteration": "baʿatha",
+    "bangla": "প্রেরণ করা; পুনরুত্থিত করা",
+    "english": "to send; to raise up",
+    "frequency": 52
+  },
+  {
+    "rank": 216,
+    "arabic": "خَلْق",
+    "transliteration": "khalq",
+    "bangla": "সৃষ্টি; সৃষ্টিজগত",
+    "english": "creation",
+    "frequency": 52
+  },
+  {
+    "rank": 217,
+    "arabic": "أَجَل",
+    "transliteration": "ajal",
+    "bangla": "নির্ধারিত সময়; মেয়াদ",
+    "english": "appointed term",
+    "frequency": 52
+  },
+  {
+    "rank": 218,
+    "arabic": "مُجْرِم",
+    "transliteration": "mujrim",
+    "bangla": "অপরাধী; পাপী",
+    "english": "criminal",
+    "frequency": 52
+  },
+  {
+    "rank": 219,
+    "arabic": "تَحْت",
+    "transliteration": "taḥt",
+    "bangla": "নিচে; তলায়",
+    "english": "under; beneath",
+    "frequency": 51
+  },
+  {
+    "rank": 220,
+    "arabic": "أَحْيا",
+    "transliteration": "aḥyā",
+    "bangla": "জীবন দেওয়া; জীবিত করা",
+    "english": "to give life",
+    "frequency": 51
+  },
+  {
+    "rank": 221,
+    "arabic": "بَصِير",
+    "transliteration": "baṣīr",
+    "bangla": "সর্বদ্রষ্টা",
+    "english": "All-Seeing",
+    "frequency": 51
+  },
+  {
+    "rank": 222,
+    "arabic": "أَهْلَكَ",
+    "transliteration": "ahlaka",
+    "bangla": "ধ্বংস করা",
+    "english": "to destroy",
+    "frequency": 51
+  },
+  {
+    "rank": 223,
+    "arabic": "تَذَكَّرَ",
+    "transliteration": "tadhakkara",
+    "bangla": "স্মরণ করা; উপদেশ গ্রহণ করা",
+    "english": "to remember; to take heed",
+    "frequency": 51
+  },
+  {
+    "rank": 224,
+    "arabic": "مَوْت",
+    "transliteration": "mawt",
+    "bangla": "মৃত্যু",
+    "english": "death",
+    "frequency": 50
+  },
+  {
+    "rank": 225,
+    "arabic": "عَدُوّ",
+    "transliteration": "ʿaduww",
+    "bangla": "শত্রু",
+    "english": "enemy",
+    "frequency": 50
+  },
+  {
+    "rank": 226,
+    "arabic": "نِعْمَة",
+    "transliteration": "niʿmah",
+    "bangla": "নিয়ামত; অনুগ্রহ",
+    "english": "favour; blessing",
+    "frequency": 50
+  },
+  {
+    "rank": 227,
+    "arabic": "سُوء",
+    "transliteration": "sūʾ",
+    "bangla": "মন্দ; অমঙ্গল",
+    "english": "evil; harm",
+    "frequency": 50
+  },
+  {
+    "rank": 228,
+    "arabic": "افْتَرَى",
+    "transliteration": "iftarā",
+    "bangla": "মনগড়া বানানো; মিথ্যা রচনা করা",
+    "english": "to fabricate; to invent (a lie)",
+    "frequency": 50
+  },
+  {
+    "rank": 229,
+    "arabic": "مُتَّقي",
+    "transliteration": "muttaqī",
+    "bangla": "মুত্তাকি; আল্লাহভীরু",
+    "english": "God-fearing; righteous",
+    "frequency": 49
+  },
+  {
+    "rank": 230,
+    "arabic": "غَيْب",
+    "transliteration": "ghayb",
+    "bangla": "অদৃশ্য; গায়েব",
+    "english": "unseen; the hidden",
+    "frequency": 49
+  },
+  {
+    "rank": 231,
+    "arabic": "زادَ",
+    "transliteration": "zāda",
+    "bangla": "বৃদ্ধি করা",
+    "english": "to increase",
+    "frequency": 49
+  },
+  {
+    "rank": 232,
+    "arabic": "عَقَل",
+    "transliteration": "ʿaqala",
+    "bangla": "বোঝা; বুদ্ধি প্রয়োগ করা",
+    "english": "to understand; to reason",
+    "frequency": 49
+  },
+  {
+    "rank": 233,
+    "arabic": "كَتَبَ",
+    "transliteration": "kataba",
+    "bangla": "লেখা; বিধান করা",
+    "english": "to write; to prescribe",
+    "frequency": 49
+  },
+  {
+    "rank": 234,
+    "arabic": "أَعْلَم",
+    "transliteration": "aʿlam",
+    "bangla": "সর্বাধিক জ্ঞানী",
+    "english": "most knowing",
+    "frequency": 49
+  },
+  {
+    "rank": 235,
+    "arabic": "وَعْد",
+    "transliteration": "waʿd",
+    "bangla": "প্রতিশ্রুতি",
+    "english": "promise",
+    "frequency": 49
+  },
+  {
+    "rank": 236,
+    "arabic": "بَصَر",
+    "transliteration": "baṣar",
+    "bangla": "দৃষ্টি; চোখের দৃষ্টি",
+    "english": "sight; vision",
+    "frequency": 48
+  },
+  {
+    "rank": 237,
+    "arabic": "دار",
+    "transliteration": "dār",
+    "bangla": "ঘর; আবাস; গৃহ",
+    "english": "home; abode",
+    "frequency": 48
+  },
+  {
+    "rank": 238,
+    "arabic": "مُلْك",
+    "transliteration": "mulk",
+    "bangla": "রাজত্ব; কর্তৃত্ব",
+    "english": "kingdom; dominion",
+    "frequency": 48
+  },
+  {
+    "rank": 239,
+    "arabic": "ساعَة",
+    "transliteration": "sāʿah",
+    "bangla": "সময়; ঘণ্টা; কিয়ামতের সময়",
+    "english": "hour; the Hour",
+    "frequency": 48
+  },
+  {
+    "rank": 240,
+    "arabic": "ظَنَّ",
+    "transliteration": "ẓanna",
+    "bangla": "ধারণা করা; মনে করা",
+    "english": "to think; to suppose",
+    "frequency": 47
+  },
+  {
+    "rank": 241,
+    "arabic": "سَمِيع",
+    "transliteration": "samīʿ",
+    "bangla": "সর্বশ্রোতা",
+    "english": "All-Hearing",
+    "frequency": 47
+  },
+  {
+    "rank": 242,
+    "arabic": "شَكَرَ",
+    "transliteration": "shakara",
+    "bangla": "কৃতজ্ঞ হওয়া",
+    "english": "to be grateful",
+    "frequency": 46
+  },
+  {
+    "rank": 243,
+    "arabic": "نَبَّأَ",
+    "transliteration": "nabbaʾa",
+    "bangla": "সংবাদ দেওয়া; অবহিত করা",
+    "english": "to inform",
+    "frequency": 46
+  },
+  {
+    "rank": 244,
+    "arabic": "أَب",
+    "transliteration": "ab",
+    "bangla": "পিতা; বাবা",
+    "english": "father",
+    "frequency": 46
+  },
+  {
+    "rank": 245,
+    "arabic": "صِراط",
+    "transliteration": "ṣirāṭ",
+    "bangla": "পথ; সরল পথ",
+    "english": "path; straight way",
+    "frequency": 45
+  },
+  {
+    "rank": 246,
+    "arabic": "قَدِير",
+    "transliteration": "qadīr",
+    "bangla": "সর্বশক্তিমান",
+    "english": "All-Powerful",
+    "frequency": 45
+  },
+  {
+    "rank": 247,
+    "arabic": "إِيمان",
+    "transliteration": "īmān",
+    "bangla": "ঈমান; বিশ্বাস",
+    "english": "faith; belief",
+    "frequency": 45
+  },
+  {
+    "rank": 248,
+    "arabic": "حَكَمَ",
+    "transliteration": "ḥakama",
+    "bangla": "বিচার করা; ফয়সালা করা",
+    "english": "to judge",
+    "frequency": 45
+  },
+  {
+    "rank": 249,
+    "arabic": "يَذَر",
+    "transliteration": "yadharu",
+    "bangla": "ছেড়ে দেওয়া",
+    "english": "to leave",
+    "frequency": 45
+  },
+  {
+    "rank": 250,
+    "arabic": "خَبِير",
+    "transliteration": "khabīr",
+    "bangla": "সর্বজ্ঞাত; সর্ববিষয়ে অবহিত",
+    "english": "All-Aware",
+    "frequency": 45
+  },
+  {
+    "rank": 251,
+    "arabic": "أَنذَرَ",
+    "transliteration": "andhara",
+    "bangla": "সতর্ক করা",
+    "english": "to warn",
+    "frequency": 44
+  },
+  {
+    "rank": 252,
+    "arabic": "شَهِدَ",
+    "transliteration": "shahida",
+    "bangla": "সাক্ষ্য দেওয়া",
+    "english": "to bear witness",
+    "frequency": 44
+  },
+  {
+    "rank": 253,
+    "arabic": "مُشْرِك",
+    "transliteration": "mushrik",
+    "bangla": "মুশরিক; অংশীদারকারী",
+    "english": "polytheist",
+    "frequency": 44
+  },
+  {
+    "rank": 254,
+    "arabic": "حَسِبَ",
+    "transliteration": "ḥasiba",
+    "bangla": "মনে করা; ধারণা করা",
+    "english": "to think; to suppose",
+    "frequency": 44
+  },
+  {
+    "rank": 255,
+    "arabic": "صَدْر",
+    "transliteration": "ṣadr",
+    "bangla": "বুক; অন্তর",
+    "english": "chest; breast",
+    "frequency": 44
+  },
+  {
+    "rank": 256,
+    "arabic": "نادَى",
+    "transliteration": "nādā",
+    "bangla": "ডাকা; আহ্বান করা",
+    "english": "to call out",
+    "frequency": 44
+  },
+  {
+    "rank": 257,
+    "arabic": "مَلَكَت",
+    "transliteration": "malakat",
+    "bangla": "মালিক হওয়া; অধিকার করা",
+    "english": "to possess; to own",
+    "frequency": 44
+  },
+  {
+    "rank": 258,
+    "arabic": "حَمْد",
+    "transliteration": "ḥamd",
+    "bangla": "প্রশংসা",
+    "english": "praise",
+    "frequency": 43
+  },
+  {
+    "rank": 259,
+    "arabic": "نُور",
+    "transliteration": "nūr",
+    "bangla": "আলো; নূর",
+    "english": "light",
+    "frequency": 43
+  },
+  {
+    "rank": 260,
+    "arabic": "إِسْرائِيل",
+    "transliteration": "Isrāʾīl",
+    "bangla": "ইসরাইল",
+    "english": "Israel",
+    "frequency": 43
+  },
+  {
+    "rank": 261,
+    "arabic": "نُوح",
+    "transliteration": "Nūḥ",
+    "bangla": "নূহ (আ.)",
+    "english": "Nuh (Noah)",
+    "frequency": 43
+  },
+  {
+    "rank": 262,
+    "arabic": "سَبَّحَ",
+    "transliteration": "sabbaḥa",
+    "bangla": "পবিত্রতা ঘোষণা করা; তাসবিহ করা",
+    "english": "to glorify",
+    "frequency": 42
+  },
+  {
+    "rank": 263,
+    "arabic": "كَلِمَة",
+    "transliteration": "kalimah",
+    "bangla": "কথা; শব্দ; বাণী",
+    "english": "word",
+    "frequency": 42
+  },
+  {
+    "rank": 264,
+    "arabic": "جَزاء",
+    "transliteration": "jazāʾ",
+    "bangla": "প্রতিদান; পুরস্কার",
+    "english": "reward; recompense",
+    "frequency": 42
+  },
+  {
+    "rank": 265,
+    "arabic": "اسْتَطاعَ",
+    "transliteration": "istaṭāʿa",
+    "bangla": "সক্ষম হওয়া",
+    "english": "to be able",
+    "frequency": 42
+  },
+  {
+    "rank": 266,
+    "arabic": "أُدْخِلَ",
+    "transliteration": "udkhila",
+    "bangla": "প্রবেশ করানো হবে",
+    "english": "to be admitted (into)",
+    "frequency": 42
+  },
+  {
+    "rank": 267,
+    "arabic": "سَوْف",
+    "transliteration": "sawf",
+    "bangla": "ভবিষ্যতে; করবে",
+    "english": "will (future marker)",
+    "frequency": 42
+  },
+  {
+    "rank": 268,
+    "arabic": "سَلام",
+    "transliteration": "salām",
+    "bangla": "শান্তি; সালাম",
+    "english": "peace",
+    "frequency": 42
+  },
+  {
+    "rank": 269,
+    "arabic": "فَوْق",
+    "transliteration": "fawq",
+    "bangla": "উপর; ঊর্ধ্বে",
+    "english": "above",
+    "frequency": 41
+  },
+  {
+    "rank": 270,
+    "arabic": "عَلَّمَ",
+    "transliteration": "ʿallama",
+    "bangla": "শিক্ষা দেওয়া",
+    "english": "to teach",
+    "frequency": 41
+  },
+  {
+    "rank": 271,
+    "arabic": "سُبْحان",
+    "transliteration": "subḥān",
+    "bangla": "পবিত্রতা; মহাপবিত্র",
+    "english": "glory be to; exalted is",
+    "frequency": 41
+  },
+  {
+    "rank": 272,
+    "arabic": "بَحْر",
+    "transliteration": "baḥr",
+    "bangla": "সমুদ্র",
+    "english": "sea",
+    "frequency": 41
+  },
+  {
+    "rank": 273,
+    "arabic": "حَمَلَ",
+    "transliteration": "ḥamala",
+    "bangla": "বহন করা",
+    "english": "to carry",
+    "frequency": 41
+  },
+  {
+    "rank": 274,
+    "arabic": "عَذَّبَ",
+    "transliteration": "ʿadhdhaba",
+    "bangla": "শাস্তি দেওয়া",
+    "english": "to punish",
+    "frequency": 41
+  },
+  {
+    "rank": 275,
+    "arabic": "تَرَكَ",
+    "transliteration": "taraka",
+    "bangla": "ছেড়ে দেওয়া",
+    "english": "to leave; to abandon",
+    "frequency": 40
+  },
+  {
+    "rank": 276,
+    "arabic": "اسْتَكْبَرَ",
+    "transliteration": "istakbara",
+    "bangla": "অহংকার করা",
+    "english": "to be arrogant",
+    "frequency": 40
+  },
+  {
+    "rank": 277,
+    "arabic": "اهْتَدَى",
+    "transliteration": "ihtadā",
+    "bangla": "হিদায়াত পাওয়া; সঠিক পথে আসা",
+    "english": "to be guided",
+    "frequency": 40
+  },
+  {
+    "rank": 278,
+    "arabic": "أَرَى",
+    "transliteration": "arā",
+    "bangla": "দেখানো",
+    "english": "to show",
+    "frequency": 40
+  },
+  {
+    "rank": 279,
+    "arabic": "وَيْل",
+    "transliteration": "wayl",
+    "bangla": "দুর্ভোগ; ধ্বংস",
+    "english": "woe",
+    "frequency": 40
+  },
+  {
+    "rank": 280,
+    "arabic": "بِئْسَ",
+    "transliteration": "biʾsa",
+    "bangla": "কতই না নিকৃষ্ট",
+    "english": "how evil is; how wretched is",
+    "frequency": 40
+  },
+  {
+    "rank": 281,
+    "arabic": "خَشِيَ",
+    "transliteration": "khashiya",
+    "bangla": "ভয় করা; আল্লাহকে ভয় করা",
+    "english": "to fear (Allah)",
+    "frequency": 40
+  },
+  {
+    "rank": 282,
+    "arabic": "بَلَغَ",
+    "transliteration": "balagha",
+    "bangla": "পৌঁছানো",
+    "english": "to reach",
+    "frequency": 40
+  },
+  {
+    "rank": 283,
+    "arabic": "اسْتَغْفَرَ",
+    "transliteration": "istaghfara",
+    "bangla": "ক্ষমা প্রার্থনা করা",
+    "english": "to seek forgiveness",
+    "frequency": 40
+  },
+  {
+    "rank": 284,
+    "arabic": "كَبِير",
+    "transliteration": "kabīr",
+    "bangla": "বড়; মহান",
+    "english": "great; big",
+    "frequency": 40
+  },
+  {
+    "rank": 285,
+    "arabic": "تَوَكَّلَ",
+    "transliteration": "tawakkala",
+    "bangla": "ভরসা করা; তাওয়াক্কুল করা",
+    "english": "to put trust (in Allah)",
+    "frequency": 40
+  },
+  {
+    "rank": 286,
+    "arabic": "شَرِيك",
+    "transliteration": "sharīk",
+    "bangla": "অংশীদার; শরিক",
+    "english": "partner (in worship)",
+    "frequency": 40
+  },
+  {
+    "rank": 287,
+    "arabic": "اسْم",
+    "transliteration": "ism",
+    "bangla": "নাম",
+    "english": "name",
+    "frequency": 39
+  },
+  {
+    "rank": 288,
+    "arabic": "أَلا",
+    "transliteration": "alā",
+    "bangla": "শুনে রাখ; নিশ্চয়",
+    "english": "unquestionably; behold",
+    "frequency": 39
+  },
+  {
+    "rank": 289,
+    "arabic": "إِذْن",
+    "transliteration": "idhn",
+    "bangla": "অনুমতি",
+    "english": "permission",
+    "frequency": 39
+  },
+  {
+    "rank": 290,
+    "arabic": "مُسْلِم",
+    "transliteration": "muslim",
+    "bangla": "মুসলিম; আত্মসমর্পণকারী",
+    "english": "Muslim; one who submits",
+    "frequency": 39
+  },
+  {
+    "rank": 291,
+    "arabic": "ماتَ",
+    "transliteration": "māta",
+    "bangla": "মারা যাওয়া",
+    "english": "to die",
+    "frequency": 39
+  },
+  {
+    "rank": 292,
+    "arabic": "حَرَّمَ",
+    "transliteration": "ḥarrama",
+    "bangla": "হারাম করা; নিষিদ্ধ করা",
+    "english": "to forbid; to make unlawful",
+    "frequency": 39
+  },
+  {
+    "rank": 293,
+    "arabic": "حِساب",
+    "transliteration": "ḥisāb",
+    "bangla": "হিসাব; গণনা",
+    "english": "account; reckoning",
+    "frequency": 39
+  },
+  {
+    "rank": 294,
+    "arabic": "جَبَل",
+    "transliteration": "jabal",
+    "bangla": "পাহাড়",
+    "english": "mountain",
+    "frequency": 39
+  },
+  {
+    "rank": 295,
+    "arabic": "بُشِّرَ",
+    "transliteration": "bushshira",
+    "bangla": "সুসংবাদ দেওয়া",
+    "english": "to give glad tidings",
+    "frequency": 38
+  },
+  {
+    "rank": 296,
+    "arabic": "مَيِّت",
+    "transliteration": "mayyit",
+    "bangla": "মৃত",
+    "english": "dead",
+    "frequency": 38
+  },
+  {
+    "rank": 297,
+    "arabic": "مُحْسِن",
+    "transliteration": "muḥsin",
+    "bangla": "সৎকর্মশীল; উত্তমকর্মকারী",
+    "english": "doer of good",
+    "frequency": 38
+  },
+  {
+    "rank": 298,
+    "arabic": "رَضِيَ",
+    "transliteration": "raḍiya",
+    "bangla": "সন্তুষ্ট হওয়া",
+    "english": "to be pleased",
+    "frequency": 38
+  },
+  {
+    "rank": 299,
+    "arabic": "مَعْرُوف",
+    "transliteration": "maʿrūf",
+    "bangla": "সৎকাজ; ন্যায়সঙ্গত",
+    "english": "good; fair; right conduct",
+    "frequency": 38
+  },
+  {
+    "rank": 300,
+    "arabic": "ضَلال",
+    "transliteration": "ḍalāl",
+    "bangla": "পথভ্রষ্টতা; বিভ্রান্তি",
+    "english": "error; misguidance",
+    "frequency": 38
+  },
+  {
+    "rank": 301,
+    "arabic": "مُسْتَقِيم",
+    "transliteration": "mustaqīm",
+    "bangla": "সরল; সোজা",
+    "english": "straight",
+    "frequency": 37
+  },
+  {
+    "rank": 302,
+    "arabic": "فاسِق",
+    "transliteration": "fāsiq",
+    "bangla": "অবাধ্য; পাপাচারী",
+    "english": "defiantly disobedient",
+    "frequency": 37
+  },
+  {
+    "rank": 303,
+    "arabic": "يَحْزُن",
+    "transliteration": "yaḥzun",
+    "bangla": "দুঃখিত হওয়া; দুঃখ দেওয়া",
+    "english": "to grieve",
+    "frequency": 37
+  },
+  {
+    "rank": 304,
+    "arabic": "نَجَّى",
+    "transliteration": "najjā",
+    "bangla": "উদ্ধার করা; রক্ষা করা",
+    "english": "to save; to rescue",
+    "frequency": 37
+  },
+  {
+    "rank": 305,
+    "arabic": "عَصا",
+    "transliteration": "ʿaṣā",
+    "bangla": "লাঠি; দণ্ড",
+    "english": "staff",
+    "frequency": 37
+  },
+  {
+    "rank": 306,
+    "arabic": "كُفْر",
+    "transliteration": "kufr",
+    "bangla": "কুফর; অবিশ্বাস",
+    "english": "disbelief",
+    "frequency": 37
+  },
+  {
+    "rank": 307,
+    "arabic": "حَشَرَ",
+    "transliteration": "ḥashara",
+    "bangla": "সমবেত করা",
+    "english": "to gather",
+    "frequency": 37
+  },
+  {
+    "rank": 308,
+    "arabic": "ذَنب",
+    "transliteration": "dhanb",
+    "bangla": "পাপ; অপরাধ",
+    "english": "sin",
+    "frequency": 37
+  },
+  {
+    "rank": 309,
+    "arabic": "نَعَم",
+    "transliteration": "naʿam",
+    "bangla": "গবাদিপশু; পশুসম্পদ",
+    "english": "livestock; cattle",
+    "frequency": 37
+  },
+  {
+    "rank": 310,
+    "arabic": "بَشَر",
+    "transliteration": "bashar",
+    "bangla": "মানুষ; মানব",
+    "english": "human being",
+    "frequency": 37
+  },
+  {
+    "rank": 311,
+    "arabic": "صَدَّ",
+    "transliteration": "ṣadda",
+    "bangla": "বাধা দেওয়া; ফিরিয়ে দেওয়া",
+    "english": "to hinder; to turn away",
+    "frequency": 37
+  },
+  {
+    "rank": 312,
+    "arabic": "سُلْطان",
+    "transliteration": "sulṭān",
+    "bangla": "ক্ষমতা; প্রমাণ; কর্তৃত্ব",
+    "english": "authority; proof",
+    "frequency": 37
+  },
+  {
+    "rank": 313,
+    "arabic": "رَدَّ",
+    "transliteration": "radda",
+    "bangla": "ফিরিয়ে দেওয়া",
+    "english": "to turn back; to return",
+    "frequency": 36
+  },
+  {
+    "rank": 314,
+    "arabic": "أَحْسَن",
+    "transliteration": "aḥsan",
+    "bangla": "উত্তম; সর্বোত্তম",
+    "english": "best; better",
+    "frequency": 36
+  },
+  {
+    "rank": 315,
+    "arabic": "ذاقَ",
+    "transliteration": "dhāqa",
+    "bangla": "স্বাদ গ্রহণ করা; আস্বাদন করা",
+    "english": "to taste",
+    "frequency": 36
+  },
+  {
+    "rank": 316,
+    "arabic": "ذَهَبَ",
+    "transliteration": "dhahaba",
+    "bangla": "যাওয়া",
+    "english": "to go",
+    "frequency": 35
+  },
+  {
+    "rank": 317,
+    "arabic": "اسْتَوَى",
+    "transliteration": "istawā",
+    "bangla": "সমুন্নত হওয়া; সমান হওয়া",
+    "english": "to rise; to settle; to be equal",
+    "frequency": 35
+  },
+  {
+    "rank": 318,
+    "arabic": "سَجَدَ",
+    "transliteration": "sajada",
+    "bangla": "সিজদা করা",
+    "english": "to prostrate",
+    "frequency": 35
+  },
+  {
+    "rank": 319,
+    "arabic": "مَتاع",
+    "transliteration": "matāʿ",
+    "bangla": "সামগ্রী; ভোগের বস্তু",
+    "english": "provision; worldly goods",
+    "frequency": 35
+  },
+  {
+    "rank": 320,
+    "arabic": "حِين",
+    "transliteration": "ḥīn",
+    "bangla": "সময়; কিছুক্ষণ",
+    "english": "time; a while",
+    "frequency": 35
+  },
+  {
+    "rank": 321,
+    "arabic": "نَسِيَ",
+    "transliteration": "nasiya",
+    "bangla": "ভুলে যাওয়া",
+    "english": "to forget",
+    "frequency": 35
+  },
+  {
+    "rank": 322,
+    "arabic": "بَيَّنَ",
+    "transliteration": "bayyana",
+    "bangla": "স্পষ্ট করা",
+    "english": "to make clear",
+    "frequency": 35
+  },
+  {
+    "rank": 323,
+    "arabic": "إِثْم",
+    "transliteration": "ithm",
+    "bangla": "পাপ; গুনাহ",
+    "english": "sin",
+    "frequency": 35
+  },
+  {
+    "rank": 324,
+    "arabic": "نَصِير",
+    "transliteration": "naṣīr",
+    "bangla": "সাহায্যকারী",
+    "english": "helper",
+    "frequency": 35
+  },
+  {
+    "rank": 325,
+    "arabic": "اخْتَلَفَ",
+    "transliteration": "ikhtalafa",
+    "bangla": "মতভেদ করা; ভিন্ন হওয়া",
+    "english": "to differ",
+    "frequency": 35
+  },
+  {
+    "rank": 326,
+    "arabic": "مُرْسَل",
+    "transliteration": "mursal",
+    "bangla": "প্রেরিত; রাসূল",
+    "english": "sent (as a messenger)",
+    "frequency": 35
+  },
+  {
+    "rank": 327,
+    "arabic": "مَرْيَم",
+    "transliteration": "Maryam",
+    "bangla": "মারইয়াম (আ.)",
+    "english": "Maryam (Mary)",
+    "frequency": 34
+  },
+  {
+    "rank": 328,
+    "arabic": "فِتْنَة",
+    "transliteration": "fitnah",
+    "bangla": "পরীক্ষা; বিপর্যয়; ফিতনা",
+    "english": "trial; temptation",
+    "frequency": 34
+  },
+  {
+    "rank": 329,
+    "arabic": "ابْتَغَى",
+    "transliteration": "ibtaghā",
+    "bangla": "অনুসন্ধান করা; কামনা করা",
+    "english": "to seek",
+    "frequency": 34
+  },
+  {
+    "rank": 330,
+    "arabic": "أُمّ",
+    "transliteration": "umm",
+    "bangla": "মা",
+    "english": "mother",
+    "frequency": 34
+  },
+  {
+    "rank": 331,
+    "arabic": "آلاء",
+    "transliteration": "ālāʾ",
+    "bangla": "নিয়ামতসমূহ; অনুগ্রহসমূহ",
+    "english": "favours; blessings",
+    "frequency": 34
+  },
+  {
+    "rank": 332,
+    "arabic": "قامَ",
+    "transliteration": "qāma",
+    "bangla": "দাঁড়ানো; প্রতিষ্ঠা করা",
+    "english": "to stand; to establish",
+    "frequency": 33
+  },
+  {
+    "rank": 333,
+    "arabic": "فَرِيق",
+    "transliteration": "farīq",
+    "bangla": "দল; সম্প্রদায়",
+    "english": "party; group",
+    "frequency": 33
+  },
+  {
+    "rank": 334,
+    "arabic": "حَرام",
+    "transliteration": "ḥarām",
+    "bangla": "হারাম; নিষিদ্ধ",
+    "english": "forbidden; unlawful",
+    "frequency": 33
+  },
+  {
+    "rank": 335,
+    "arabic": "شَمْس",
+    "transliteration": "shams",
+    "bangla": "সূর্য",
+    "english": "sun",
+    "frequency": 33
+  },
+  {
+    "rank": 336,
+    "arabic": "كَذِب",
+    "transliteration": "kadhib",
+    "bangla": "মিথ্যা",
+    "english": "lie; falsehood",
+    "frequency": 33
+  },
+  {
+    "rank": 337,
+    "arabic": "كَلّا",
+    "transliteration": "kallā",
+    "bangla": "কখনো নয়; মোটেই নয়",
+    "english": "nay; by no means",
+    "frequency": 33
+  },
+  {
+    "rank": 338,
+    "arabic": "خاسِر",
+    "transliteration": "khāsir",
+    "bangla": "ক্ষতিগ্রস্ত; লোকসানগ্রস্ত",
+    "english": "loser",
+    "frequency": 32
+  },
+  {
+    "rank": 339,
+    "arabic": "زَكاة",
+    "transliteration": "zakāh",
+    "bangla": "যাকাত",
+    "english": "zakah (obligatory charity)",
+    "frequency": 32
+  },
+  {
+    "rank": 340,
+    "arabic": "ذُرِّيَّة",
+    "transliteration": "dhurriyyah",
+    "bangla": "বংশধর; সন্তানসন্ততি",
+    "english": "offspring; progeny",
+    "frequency": 32
+  },
+  {
+    "rank": 341,
+    "arabic": "كَفَى",
+    "transliteration": "kafā",
+    "bangla": "যথেষ্ট হওয়া",
+    "english": "to be sufficient",
+    "frequency": 32
+  },
+  {
+    "rank": 342,
+    "arabic": "كاذِب",
+    "transliteration": "kādhib",
+    "bangla": "মিথ্যাবাদী",
+    "english": "liar",
+    "frequency": 32
+  },
+  {
+    "rank": 343,
+    "arabic": "نَهَى",
+    "transliteration": "nahā",
+    "bangla": "নিষেধ করা",
+    "english": "to forbid",
+    "frequency": 32
+  },
+  {
+    "rank": 344,
+    "arabic": "عاقِبَة",
+    "transliteration": "ʿāqibah",
+    "bangla": "পরিণতি; পরিণাম",
+    "english": "outcome; end result",
+    "frequency": 32
+  },
+  {
+    "rank": 345,
+    "arabic": "أَعْرَضَ",
+    "transliteration": "aʿraḍa",
+    "bangla": "মুখ ফিরিয়ে নেওয়া",
+    "english": "to turn away",
+    "frequency": 32
+  },
+  {
+    "rank": 346,
+    "arabic": "حَيْث",
+    "transliteration": "ḥayth",
+    "bangla": "যেখানে; যেদিকে",
+    "english": "where; wherever",
+    "frequency": 31
+  },
+  {
+    "rank": 347,
+    "arabic": "أَشَدّ",
+    "transliteration": "ashadd",
+    "bangla": "অধিক কঠিন; অধিক শক্তিশালী",
+    "english": "stronger; more severe",
+    "frequency": 31
+  },
+  {
+    "rank": 348,
+    "arabic": "نَفَعَ",
+    "transliteration": "nafaʿa",
+    "bangla": "উপকার করা",
+    "english": "to benefit",
+    "frequency": 31
+  },
+  {
+    "rank": 349,
+    "arabic": "إِذًا",
+    "transliteration": "idhan",
+    "bangla": "তাহলে; তবে",
+    "english": "then; in that case",
+    "frequency": 31
+  },
+  {
+    "rank": 350,
+    "arabic": "حَسَنَة",
+    "transliteration": "ḥasanah",
+    "bangla": "সৎকাজ; নেকি",
+    "english": "good deed",
+    "frequency": 31
+  },
+  {
+    "rank": 351,
+    "arabic": "واحِدَة",
+    "transliteration": "wāḥidah",
+    "bangla": "একটি; এক",
+    "english": "one (feminine)",
+    "frequency": 31
+  },
+  {
+    "rank": 352,
+    "arabic": "طَيِّبَة",
+    "transliteration": "ṭayyibah",
+    "bangla": "পবিত্র; উত্তম; ভালো",
+    "english": "good; pure (feminine)",
+    "frequency": 30
+  },
+  {
+    "rank": 353,
+    "arabic": "واحِد",
+    "transliteration": "wāḥid",
+    "bangla": "এক; একক",
+    "english": "one",
+    "frequency": 30
+  },
+  {
+    "rank": 354,
+    "arabic": "قُوَّة",
+    "transliteration": "quwwah",
+    "bangla": "শক্তি; ক্ষমতা",
+    "english": "strength; power",
+    "frequency": 30
+  },
+  {
+    "rank": 355,
+    "arabic": "وَلَّى",
+    "transliteration": "wallā",
+    "bangla": "ফিরে যাওয়া; মুখ ফেরানো",
+    "english": "to turn away",
+    "frequency": 30
+  },
+  {
+    "rank": 356,
+    "arabic": "عاد",
+    "transliteration": "ʿĀd",
+    "bangla": "আদ জাতি",
+    "english": "'Ad (the people of)",
+    "frequency": 30
+  },
+  {
+    "rank": 357,
+    "arabic": "عَسَى",
+    "transliteration": "ʿasā",
+    "bangla": "সম্ভবত; আশা করা যায়",
+    "english": "perhaps; maybe",
+    "frequency": 30
+  },
+  {
+    "rank": 358,
+    "arabic": "شَرّ",
+    "transliteration": "sharr",
+    "bangla": "অমঙ্গল; মন্দ",
+    "english": "evil; harm",
+    "frequency": 30
+  },
+  {
+    "rank": 359,
+    "arabic": "مَلَأ",
+    "transliteration": "malaʾ",
+    "bangla": "নেতৃবর্গ; প্রধানরা",
+    "english": "chiefs; leaders",
+    "frequency": 30
+  },
+  {
+    "rank": 360,
+    "arabic": "لَبِثَ",
+    "transliteration": "labitha",
+    "bangla": "অবস্থান করা; থাকা",
+    "english": "to remain; to stay",
+    "frequency": 30
+  },
+  {
+    "rank": 361,
+    "arabic": "حُكْم",
+    "transliteration": "ḥukm",
+    "bangla": "বিধান; বিচার; প্রজ্ঞা",
+    "english": "judgement; wisdom",
+    "frequency": 30
+  },
+  {
+    "rank": 362,
+    "arabic": "ساءَ",
+    "transliteration": "sāʾa",
+    "bangla": "মন্দ হওয়া; খারাপ করা",
+    "english": "to be evil; to be bad",
+    "frequency": 30
+  },
+  {
+    "rank": 363,
+    "arabic": "كَرِيم",
+    "transliteration": "karīm",
+    "bangla": "সম্মানিত; মহানুভব",
+    "english": "noble; generous",
+    "frequency": 30
+  },
+  {
+    "rank": 364,
+    "arabic": "أَبْصَرَ",
+    "transliteration": "abṣara",
+    "bangla": "দেখা; প্রত্যক্ষ করা",
+    "english": "to see clearly",
+    "frequency": 29
+  },
+  {
+    "rank": 365,
+    "arabic": "عَهْد",
+    "transliteration": "ʿahd",
+    "bangla": "অঙ্গীকার; চুক্তি",
+    "english": "covenant; promise",
+    "frequency": 29
+  },
+  {
+    "rank": 366,
+    "arabic": "كَأَنَّ",
+    "transliteration": "kaʾanna",
+    "bangla": "যেন; মনে হয় যেন",
+    "english": "as if",
+    "frequency": 29
+  },
+  {
+    "rank": 367,
+    "arabic": "رِيح",
+    "transliteration": "rīḥ",
+    "bangla": "বাতাস",
+    "english": "wind",
+    "frequency": 29
+  },
+  {
+    "rank": 368,
+    "arabic": "جُند",
+    "transliteration": "jund",
+    "bangla": "বাহিনী; সৈন্যদল",
+    "english": "army; troops",
+    "frequency": 29
+  },
+  {
+    "rank": 369,
+    "arabic": "عَرْش",
+    "transliteration": "ʿarsh",
+    "bangla": "আরশ; সিংহাসন",
+    "english": "throne",
+    "frequency": 29
+  },
+  {
+    "rank": 370,
+    "arabic": "رَجُل",
+    "transliteration": "rajul",
+    "bangla": "পুরুষ; ব্যক্তি",
+    "english": "man",
+    "frequency": 29
+  },
+  {
+    "rank": 371,
+    "arabic": "نَبَأ",
+    "transliteration": "nabaʾ",
+    "bangla": "সংবাদ; খবর",
+    "english": "news; report",
+    "frequency": 29
+  },
+  {
+    "rank": 372,
+    "arabic": "أَبَدًا",
+    "transliteration": "abadan",
+    "bangla": "কখনো; চিরকাল",
+    "english": "ever; forever",
+    "frequency": 28
+  },
+  {
+    "rank": 373,
+    "arabic": "سِحْر",
+    "transliteration": "siḥr",
+    "bangla": "জাদু",
+    "english": "magic",
+    "frequency": 28
+  },
+  {
+    "rank": 374,
+    "arabic": "مَسْجِد",
+    "transliteration": "masjid",
+    "bangla": "মসজিদ",
+    "english": "mosque",
+    "frequency": 28
+  },
+  {
+    "rank": 375,
+    "arabic": "مَصِير",
+    "transliteration": "maṣīr",
+    "bangla": "প্রত্যাবর্তনস্থল; পরিণতি",
+    "english": "destination; return",
+    "frequency": 28
+  },
+  {
+    "rank": 376,
+    "arabic": "أَصْلَحَ",
+    "transliteration": "aṣlaḥa",
+    "bangla": "সংশোধন করা; সংস্কার করা",
+    "english": "to reform; to set right",
+    "frequency": 28
+  },
+  {
+    "rank": 377,
+    "arabic": "مَغْفِرَة",
+    "transliteration": "maghfirah",
+    "bangla": "ক্ষমা; মাগফিরাত",
+    "english": "forgiveness",
+    "frequency": 28
+  },
+  {
+    "rank": 378,
+    "arabic": "اسْتَجابَ",
+    "transliteration": "istajāba",
+    "bangla": "সাড়া দেওয়া; কবুল করা",
+    "english": "to respond; to answer",
+    "frequency": 28
+  },
+  {
+    "rank": 379,
+    "arabic": "مُؤْمِنَة",
+    "transliteration": "muʾminah",
+    "bangla": "মুমিনা; বিশ্বাসী নারী",
+    "english": "female believer",
+    "frequency": 28
+  },
+  {
+    "rank": 380,
+    "arabic": "أَنَّى",
+    "transliteration": "annā",
+    "bangla": "কীভাবে; কোথা থেকে",
+    "english": "how",
+    "frequency": 28
+  },
+  {
+    "rank": 381,
+    "arabic": "رِجال",
+    "transliteration": "rijāl",
+    "bangla": "পুরুষগণ",
+    "english": "men",
+    "frequency": 28
+  },
+  {
+    "rank": 382,
+    "arabic": "رَحِمَ",
+    "transliteration": "raḥima",
+    "bangla": "দয়া করা",
+    "english": "to have mercy",
+    "frequency": 28
+  },
+  {
+    "rank": 383,
+    "arabic": "أَغْنَت",
+    "transliteration": "aghnat",
+    "bangla": "উপকারে আসা; অভাবমুক্ত করা",
+    "english": "to avail; to benefit",
+    "frequency": 28
+  },
+  {
+    "rank": 384,
+    "arabic": "أَصْبَحَ",
+    "transliteration": "aṣbaḥa",
+    "bangla": "হয়ে যাওয়া; প্রভাত হওয়া",
+    "english": "to become",
+    "frequency": 28
+  },
+  {
+    "rank": 385,
+    "arabic": "حَدِيث",
+    "transliteration": "ḥadīth",
+    "bangla": "কথা; বাণী; ঘটনা",
+    "english": "speech; narration",
+    "frequency": 28
+  },
+  {
+    "rank": 386,
+    "arabic": "سَواء",
+    "transliteration": "sawāʾ",
+    "bangla": "সমান; একই",
+    "english": "equal; the same",
+    "frequency": 27
+  },
+  {
+    "rank": 387,
+    "arabic": "عَفا",
+    "transliteration": "ʿafā",
+    "bangla": "ক্ষমা করা; মার্জনা করা",
+    "english": "to pardon",
+    "frequency": 27
+  },
+  {
+    "rank": 388,
+    "arabic": "باب",
+    "transliteration": "bāb",
+    "bangla": "দরজা",
+    "english": "door; gate",
+    "frequency": 27
+  },
+  {
+    "rank": 389,
+    "arabic": "غافِل",
+    "transliteration": "ghāfil",
+    "bangla": "উদাসীন; অমনোযোগী",
+    "english": "heedless; unaware",
+    "frequency": 27
+  },
+  {
+    "rank": 390,
+    "arabic": "قَدَّمَ",
+    "transliteration": "qaddama",
+    "bangla": "আগে পাঠানো; অগ্রসর করা",
+    "english": "to send ahead",
+    "frequency": 27
+  },
+  {
+    "rank": 391,
+    "arabic": "أَفْلَحَ",
+    "transliteration": "aflaḥa",
+    "bangla": "সফল হওয়া",
+    "english": "to succeed; to prosper",
+    "frequency": 27
+  },
+  {
+    "rank": 392,
+    "arabic": "جاهَدَ",
+    "transliteration": "jāhada",
+    "bangla": "সংগ্রাম করা; চেষ্টা করা",
+    "english": "to strive; to struggle",
+    "frequency": 27
+  },
+  {
+    "rank": 393,
+    "arabic": "مَكان",
+    "transliteration": "makān",
+    "bangla": "স্থান; জায়গা",
+    "english": "place",
+    "frequency": 27
+  },
+  {
+    "rank": 394,
+    "arabic": "مُنافِق",
+    "transliteration": "munāfiq",
+    "bangla": "মুনাফিক; কপট ব্যক্তি",
+    "english": "hypocrite",
+    "frequency": 27
+  },
+  {
+    "rank": 395,
+    "arabic": "قَمَر",
+    "transliteration": "qamar",
+    "bangla": "চাঁদ",
+    "english": "moon",
+    "frequency": 27
+  },
+  {
+    "rank": 396,
+    "arabic": "يُوسُف",
+    "transliteration": "Yūsuf",
+    "bangla": "ইউসুফ (আ.)",
+    "english": "Yusuf (Joseph)",
+    "frequency": 27
+  },
+  {
+    "rank": 397,
+    "arabic": "لُوط",
+    "transliteration": "Lūṭ",
+    "bangla": "লূত (আ.)",
+    "english": "Lut (Lot)",
+    "frequency": 27
+  },
+  {
+    "rank": 398,
+    "arabic": "ماذا",
+    "transliteration": "mādhā",
+    "bangla": "কী",
+    "english": "what",
+    "frequency": 26
+  },
+  {
+    "rank": 399,
+    "arabic": "خَوْف",
+    "transliteration": "khawf",
+    "bangla": "ভয়",
+    "english": "fear",
+    "frequency": 26
+  },
+  {
+    "rank": 400,
+    "arabic": "باطِل",
+    "transliteration": "bāṭil",
+    "bangla": "মিথ্যা; অসত্য; বাতিল",
+    "english": "falsehood",
+    "frequency": 26
+  },
+  {
+    "rank": 401,
+    "arabic": "آل",
+    "transliteration": "āl",
+    "bangla": "পরিবার; বংশ",
+    "english": "family; people",
+    "frequency": 26
+  },
+  {
+    "rank": 402,
+    "arabic": "جَحِيم",
+    "transliteration": "jaḥīm",
+    "bangla": "জাহান্নামের আগুন; প্রজ্বলিত আগুন",
+    "english": "blazing fire; hellfire",
+    "frequency": 26
+  },
+  {
+    "rank": 403,
+    "arabic": "شَهادَة",
+    "transliteration": "shahādah",
+    "bangla": "সাক্ষ্য; সাক্ষ্যদান",
+    "english": "testimony; witness",
+    "frequency": 26
+  },
+  {
+    "rank": 404,
+    "arabic": "أَجْمَع",
+    "transliteration": "ajmaʿ",
+    "bangla": "সকল; সমগ্র",
+    "english": "altogether; all",
+    "frequency": 26
+  },
+  {
+    "rank": 405,
+    "arabic": "قَرِيب",
+    "transliteration": "qarīb",
+    "bangla": "নিকট; নিকটবর্তী",
+    "english": "near",
+    "frequency": 26
+  },
+  {
+    "rank": 406,
+    "arabic": "زَيَّنَ",
+    "transliteration": "zayyana",
+    "bangla": "সুশোভিত করা; সৌন্দর্যমণ্ডিত করা",
+    "english": "to beautify; to adorn",
+    "frequency": 26
+  },
+  {
+    "rank": 407,
+    "arabic": "امْرَأَة",
+    "transliteration": "imraʾah",
+    "bangla": "নারী; স্ত্রী",
+    "english": "woman",
+    "frequency": 26
+  },
+  {
+    "rank": 408,
+    "arabic": "كَيْد",
+    "transliteration": "kayd",
+    "bangla": "ষড়যন্ত্র; কৌশল",
+    "english": "plot; scheme",
+    "frequency": 26
+  },
+  {
+    "rank": 409,
+    "arabic": "ثَمُود",
+    "transliteration": "Thamūd",
+    "bangla": "সামূদ জাতি",
+    "english": "Thamud (the people of)",
+    "frequency": 26
+  },
+  {
+    "rank": 410,
+    "arabic": "يَشْعُرُ",
+    "transliteration": "yashʿuru",
+    "bangla": "অনুভব করা; উপলব্ধি করা",
+    "english": "to perceive; to feel",
+    "frequency": 25
+  },
+  {
+    "rank": 411,
+    "arabic": "خَلا",
+    "transliteration": "khalā",
+    "bangla": "অতীত হওয়া; চলে যাওয়া",
+    "english": "to pass away",
+    "frequency": 25
+  },
+  {
+    "rank": 412,
+    "arabic": "مِيثاق",
+    "transliteration": "mīthāq",
+    "bangla": "অঙ্গীকার; দৃঢ় চুক্তি",
+    "english": "covenant; firm pledge",
+    "frequency": 25
+  },
+  {
+    "rank": 413,
+    "arabic": "آدَم",
+    "transliteration": "Ādam",
+    "bangla": "আদম (আ.)",
+    "english": "Adam",
+    "frequency": 25
+  },
+  {
+    "rank": 414,
+    "arabic": "عِيسَى",
+    "transliteration": "ʿĪsā",
+    "bangla": "ঈসা (আ.)",
+    "english": "'Isa (Jesus)",
+    "frequency": 25
+  },
+  {
+    "rank": 415,
+    "arabic": "جُناح",
+    "transliteration": "junāḥ",
+    "bangla": "অপরাধ; দোষ",
+    "english": "blame; sin",
+    "frequency": 25
+  },
+  {
+    "rank": 416,
+    "arabic": "بَعِيد",
+    "transliteration": "baʿīd",
+    "bangla": "দূর",
+    "english": "far",
+    "frequency": 25
+  },
+  {
+    "rank": 417,
+    "arabic": "بَأْس",
+    "transliteration": "baʾs",
+    "bangla": "শাস্তি; কঠোরতা; শক্তি",
+    "english": "punishment; might",
+    "frequency": 25
+  },
+  {
+    "rank": 418,
+    "arabic": "قَدَرَ",
+    "transliteration": "qadara",
+    "bangla": "নির্ধারণ করা; সীমাবদ্ধ করা",
+    "english": "to decree; to restrict",
+    "frequency": 25
+  },
+  {
+    "rank": 419,
+    "arabic": "لِسان",
+    "transliteration": "lisān",
+    "bangla": "জিহ্বা; ভাষা",
+    "english": "tongue; language",
+    "frequency": 25
+  },
+  {
+    "rank": 420,
+    "arabic": "بَغَى",
+    "transliteration": "baghā",
+    "bangla": "সীমালঙ্ঘন করা; কামনা করা",
+    "english": "to transgress; to seek",
+    "frequency": 25
+  },
+  {
+    "rank": 421,
+    "arabic": "جادَلَ",
+    "transliteration": "jādala",
+    "bangla": "বিতর্ক করা",
+    "english": "to dispute; to argue",
+    "frequency": 25
+  },
+  {
+    "rank": 422,
+    "arabic": "إِيّا",
+    "transliteration": "iyyā",
+    "bangla": "তাকে; তাদের; নিজেকে",
+    "english": "(object pronoun marker)",
+    "frequency": 24
+  },
+  {
+    "rank": 423,
+    "arabic": "كادَ",
+    "transliteration": "kāda",
+    "bangla": "প্রায়; কাছাকাছি হওয়া",
+    "english": "to be about to; almost",
+    "frequency": 24
+  },
+  {
+    "rank": 424,
+    "arabic": "طَعام",
+    "transliteration": "ṭaʿām",
+    "bangla": "খাদ্য; খাবার",
+    "english": "food",
+    "frequency": 24
+  },
+  {
+    "rank": 425,
+    "arabic": "وَراء",
+    "transliteration": "warāʾ",
+    "bangla": "পিছনে; পশ্চাতে",
+    "english": "behind",
+    "frequency": 24
+  },
+  {
+    "rank": 426,
+    "arabic": "أ",
+    "transliteration": "a",
+    "bangla": "কি? — প্রশ্নসূচক",
+    "english": "(question prefix)",
+    "frequency": 24
+  },
+  {
+    "rank": 427,
+    "arabic": "حَيّ",
+    "transliteration": "ḥayy",
+    "bangla": "জীবিত; জীবন্ত",
+    "english": "living; alive",
+    "frequency": 24
+  },
+  {
+    "rank": 428,
+    "arabic": "أُنثَى",
+    "transliteration": "unthā",
+    "bangla": "নারী; স্ত্রীলিঙ্গ",
+    "english": "female",
+    "frequency": 24
+  },
+  {
+    "rank": 429,
+    "arabic": "أَكْبَر",
+    "transliteration": "akbar",
+    "bangla": "অধিক বড়; সর্বশ্রেষ্ঠ",
+    "english": "greater; bigger",
+    "frequency": 24
+  },
+  {
+    "rank": 430,
+    "arabic": "تَوَفَّى",
+    "transliteration": "tawaffā",
+    "bangla": "মৃত্যু ঘটানো; প্রাণ গ্রহণ করা",
+    "english": "to cause to die",
+    "frequency": 24
+  },
+  {
+    "rank": 431,
+    "arabic": "غَنِيّ",
+    "transliteration": "ghanī",
+    "bangla": "অমুখাপেক্ষী; অভাবমুক্ত",
+    "english": "self-sufficient; free of need",
+    "frequency": 24
+  },
+  {
+    "rank": 432,
+    "arabic": "طائِفَة",
+    "transliteration": "ṭāʾifah",
+    "bangla": "দল; গোষ্ঠী",
+    "english": "group; party",
+    "frequency": 24
+  },
+  {
+    "rank": 433,
+    "arabic": "وَكِيل",
+    "transliteration": "wakīl",
+    "bangla": "কর্মনির্বাহক; অভিভাবক; প্রতিনিধি",
+    "english": "guardian; disposer of affairs",
+    "frequency": 24
+  },
+  {
+    "rank": 434,
+    "arabic": "لِقاء",
+    "transliteration": "liqāʾ",
+    "bangla": "সাক্ষাৎ; মিলন",
+    "english": "meeting",
+    "frequency": 24
+  },
+  {
+    "rank": 435,
+    "arabic": "ظُلُمَة",
+    "transliteration": "ẓulumah",
+    "bangla": "অন্ধকার",
+    "english": "darkness",
+    "frequency": 23
+  },
+  {
+    "rank": 436,
+    "arabic": "سَبْع",
+    "transliteration": "sabʿ",
+    "bangla": "সাত",
+    "english": "seven",
+    "frequency": 23
+  },
+  {
+    "rank": 437,
+    "arabic": "إِمّا",
+    "transliteration": "immā",
+    "bangla": "হয়…অথবা",
+    "english": "either...or",
+    "frequency": 23
+  },
+  {
+    "rank": 438,
+    "arabic": "أَنجَى",
+    "transliteration": "anjā",
+    "bangla": "উদ্ধার করা; রক্ষা করা",
+    "english": "to save; to rescue",
+    "frequency": 23
+  },
+  {
+    "rank": 439,
+    "arabic": "ساجِد",
+    "transliteration": "sājid",
+    "bangla": "সিজদাকারী",
+    "english": "one who prostrates",
+    "frequency": 23
+  },
+  {
+    "rank": 440,
+    "arabic": "بَدَّلَ",
+    "transliteration": "baddala",
+    "bangla": "পরিবর্তন করা; বদলে দেওয়া",
+    "english": "to change; to substitute",
+    "frequency": 23
+  },
+  {
+    "rank": 441,
+    "arabic": "يَتِيم",
+    "transliteration": "yatīm",
+    "bangla": "এতিম",
+    "english": "orphan",
+    "frequency": 23
+  },
+  {
+    "rank": 442,
+    "arabic": "مِسْكِين",
+    "transliteration": "miskīn",
+    "bangla": "মিসকিন; অভাবগ্রস্ত",
+    "english": "needy; poor",
+    "frequency": 23
+  },
+  {
+    "rank": 443,
+    "arabic": "لَعَنَ",
+    "transliteration": "laʿana",
+    "bangla": "অভিশাপ দেওয়া",
+    "english": "to curse",
+    "frequency": 23
+  },
+  {
+    "rank": 444,
+    "arabic": "فُلْك",
+    "transliteration": "fulk",
+    "bangla": "নৌযান; জাহাজ",
+    "english": "ship; ark",
+    "frequency": 23
+  },
+  {
+    "rank": 445,
+    "arabic": "أَذِنَ",
+    "transliteration": "adhina",
+    "bangla": "অনুমতি দেওয়া",
+    "english": "to permit; to allow",
+    "frequency": 23
+  },
+  {
+    "rank": 446,
+    "arabic": "فَتَنَ",
+    "transliteration": "fatana",
+    "bangla": "পরীক্ষা করা; পরীক্ষায় ফেলা",
+    "english": "to try; to put to trial",
+    "frequency": 23
+  },
+  {
+    "rank": 447,
+    "arabic": "قَرْن",
+    "transliteration": "qarn",
+    "bangla": "প্রজন্ম; যুগ",
+    "english": "generation; age",
+    "frequency": 23
+  },
+  {
+    "rank": 448,
+    "arabic": "ذِكْرَى",
+    "transliteration": "dhikrā",
+    "bangla": "স্মরণ; উপদেশ; স্মারক",
+    "english": "reminder",
+    "frequency": 23
+  },
+  {
+    "rank": 449,
+    "arabic": "سَمْع",
+    "transliteration": "samʿ",
+    "bangla": "শ্রবণ; শোনা",
+    "english": "hearing",
+    "frequency": 22
+  },
+  {
+    "rank": 450,
+    "arabic": "رَفَعَ",
+    "transliteration": "rafaʿa",
+    "bangla": "উত্থাপন করা; তুলে নেওয়া",
+    "english": "to raise",
+    "frequency": 22
+  },
+  {
+    "rank": 451,
+    "arabic": "خَلْف",
+    "transliteration": "khalf",
+    "bangla": "পিছনে; পশ্চাতে",
+    "english": "behind",
+    "frequency": 22
+  },
+  {
+    "rank": 452,
+    "arabic": "بَلَى",
+    "transliteration": "balā",
+    "bangla": "হ্যাঁ; অবশ্যই",
+    "english": "yes, indeed",
+    "frequency": 22
+  },
+  {
+    "rank": 453,
+    "arabic": "أَسْلَمَ",
+    "transliteration": "aslama",
+    "bangla": "আত্মসমর্পণ করা; ইসলাম গ্রহণ করা",
+    "english": "to submit (to Allah)",
+    "frequency": 22
+  },
+  {
+    "rank": 454,
+    "arabic": "دُعاء",
+    "transliteration": "duʿāʾ",
+    "bangla": "দোয়া; প্রার্থনা",
+    "english": "supplication; call",
+    "frequency": 22
+  },
+  {
+    "rank": 455,
+    "arabic": "نَصْر",
+    "transliteration": "naṣr",
+    "bangla": "সাহায্য; বিজয়",
+    "english": "help; victory",
+    "frequency": 22
+  },
+  {
+    "rank": 456,
+    "arabic": "يَرْجُوا",
+    "transliteration": "yarjū",
+    "bangla": "আশা করা",
+    "english": "to hope",
+    "frequency": 22
+  },
+  {
+    "rank": 457,
+    "arabic": "وَهَبَ",
+    "transliteration": "wahaba",
+    "bangla": "দান করা; প্রদান করা",
+    "english": "to grant; to bestow",
+    "frequency": 22
+  },
+  {
+    "rank": 458,
+    "arabic": "جَمَعَ",
+    "transliteration": "jamaʿa",
+    "bangla": "একত্র করা; জমা করা",
+    "english": "to gather; to collect",
+    "frequency": 22
+  },
+  {
+    "rank": 459,
+    "arabic": "لَدَى",
+    "transliteration": "ladā",
+    "bangla": "কাছে; নিকট",
+    "english": "near; with",
+    "frequency": 22
+  },
+  {
+    "rank": 460,
+    "arabic": "مَكَرَ",
+    "transliteration": "makara",
+    "bangla": "ষড়যন্ত্র করা; কৌশল করা",
+    "english": "to plot; to scheme",
+    "frequency": 22
+  },
+  {
+    "rank": 461,
+    "arabic": "مَأْوَى",
+    "transliteration": "maʾwā",
+    "bangla": "আশ্রয়স্থল; আবাস",
+    "english": "refuge; shelter",
+    "frequency": 22
+  },
+  {
+    "rank": 462,
+    "arabic": "بَرّ",
+    "transliteration": "barr",
+    "bangla": "স্থলভাগ; ভূমি",
+    "english": "land",
+    "frequency": 22
+  },
+  {
+    "rank": 463,
+    "arabic": "أَذاقَ",
+    "transliteration": "adhāqa",
+    "bangla": "আস্বাদন করানো; ভোগ করানো",
+    "english": "to make taste",
+    "frequency": 22
+  },
+  {
+    "rank": 464,
+    "arabic": "جِنّ",
+    "transliteration": "jinn",
+    "bangla": "জিন",
+    "english": "jinn",
+    "frequency": 22
+  },
+  {
+    "rank": 465,
+    "arabic": "ساحِر",
+    "transliteration": "sāḥir",
+    "bangla": "জাদুকর",
+    "english": "magician",
+    "frequency": 22
+  },
+  {
+    "rank": 466,
+    "arabic": "سَخَّرَ",
+    "transliteration": "sakhkhara",
+    "bangla": "অধীন করা; কাজে লাগানো",
+    "english": "to subject; to make subservient",
+    "frequency": 22
+  },
+  {
+    "rank": 467,
+    "arabic": "مُفْسِد",
+    "transliteration": "mufsid",
+    "bangla": "ফাসাদকারী; বিপর্যয় সৃষ্টিকারী",
+    "english": "corrupter",
+    "frequency": 21
+  },
+  {
+    "rank": 468,
+    "arabic": "اسْتُهْزِئَ",
+    "transliteration": "istuhziʾa",
+    "bangla": "উপহাস করা হয়েছিল",
+    "english": "to mock; to ridicule",
+    "frequency": 21
+  },
+  {
+    "rank": 469,
+    "arabic": "اشْتَرَى",
+    "transliteration": "ishtarā",
+    "bangla": "ক্রয় করা; বিনিময়ে নেওয়া",
+    "english": "to purchase; to trade",
+    "frequency": 21
+  },
+  {
+    "rank": 470,
+    "arabic": "أَعْمَى",
+    "transliteration": "aʿmā",
+    "bangla": "অন্ধ",
+    "english": "blind",
+    "frequency": 21
+  },
+  {
+    "rank": 471,
+    "arabic": "مَشَى",
+    "transliteration": "mashā",
+    "bangla": "হাঁটা; চলা",
+    "english": "to walk",
+    "frequency": 21
+  },
+  {
+    "rank": 472,
+    "arabic": "أَماتَ",
+    "transliteration": "amāta",
+    "bangla": "মৃত্যু ঘটানো",
+    "english": "to cause death",
+    "frequency": 21
+  },
+  {
+    "rank": 473,
+    "arabic": "كَتَمَ",
+    "transliteration": "katama",
+    "bangla": "গোপন করা; গোপন রাখা",
+    "english": "to conceal",
+    "frequency": 21
+  },
+  {
+    "rank": 474,
+    "arabic": "رُوح",
+    "transliteration": "rūḥ",
+    "bangla": "রূহ; আত্মা",
+    "english": "spirit; soul",
+    "frequency": 21
+  },
+  {
+    "rank": 475,
+    "arabic": "شَهْر",
+    "transliteration": "shahr",
+    "bangla": "মাস",
+    "english": "month",
+    "frequency": 21
+  },
+  {
+    "rank": 476,
+    "arabic": "أَحْسَنَ",
+    "transliteration": "aḥsana",
+    "bangla": "উত্তম কাজ করা",
+    "english": "to do good",
+    "frequency": 21
+  },
+  {
+    "rank": 477,
+    "arabic": "نَصِيب",
+    "transliteration": "naṣīb",
+    "bangla": "অংশ; ভাগ",
+    "english": "portion; share",
+    "frequency": 21
+  },
+  {
+    "rank": 478,
+    "arabic": "كَم",
+    "transliteration": "kam",
+    "bangla": "কত; কতজন",
+    "english": "how many; how much",
+    "frequency": 21
+  },
+  {
+    "rank": 479,
+    "arabic": "حَسَن",
+    "transliteration": "ḥasan",
+    "bangla": "সুন্দর; উত্তম",
+    "english": "good; beautiful",
+    "frequency": 21
+  },
+  {
+    "rank": 480,
+    "arabic": "مُسَمًّى",
+    "transliteration": "musamman",
+    "bangla": "নির্ধারিত; নামযুক্ত",
+    "english": "named; appointed",
+    "frequency": 21
+  },
+  {
+    "rank": 481,
+    "arabic": "وَضَعَ",
+    "transliteration": "waḍaʿa",
+    "bangla": "রাখা; স্থাপন করা; প্রসব করা",
+    "english": "to place; to put down; to give birth",
+    "frequency": 21
+  },
+  {
+    "rank": 482,
+    "arabic": "شاهِد",
+    "transliteration": "shāhid",
+    "bangla": "সাক্ষী",
+    "english": "witness",
+    "frequency": 21
+  },
+  {
+    "rank": 483,
+    "arabic": "مُكَذِّب",
+    "transliteration": "mukadhdhib",
+    "bangla": "অস্বীকারকারী; মিথ্যাপ্রতিপন্নকারী",
+    "english": "denier",
+    "frequency": 21
+  },
+  {
+    "rank": 484,
+    "arabic": "ظَنّ",
+    "transliteration": "ẓann",
+    "bangla": "ধারণা; অনুমান",
+    "english": "assumption; conjecture",
+    "frequency": 21
+  },
+  {
+    "rank": 485,
+    "arabic": "أَعَدَّ",
+    "transliteration": "aʿadda",
+    "bangla": "প্রস্তুত করা",
+    "english": "to prepare",
+    "frequency": 20
+  },
+  {
+    "rank": 486,
+    "arabic": "أَوْفَى",
+    "transliteration": "awfā",
+    "bangla": "পূর্ণ করা; সম্পূর্ণ দেওয়া",
+    "english": "to fulfil fully",
+    "frequency": 20
+  },
+  {
+    "rank": 487,
+    "arabic": "عَرَفَ",
+    "transliteration": "ʿarafa",
+    "bangla": "জানা; চিনতে পারা",
+    "english": "to know; to recognize",
+    "frequency": 20
+  },
+  {
+    "rank": 488,
+    "arabic": "سَعَى",
+    "transliteration": "saʿā",
+    "bangla": "চেষ্টা করা; এগিয়ে চলা",
+    "english": "to strive; to endeavour",
+    "frequency": 20
+  },
+  {
+    "rank": 489,
+    "arabic": "كَلَّمَ",
+    "transliteration": "kallama",
+    "bangla": "কথা বলা; কথা বলা/বলানো",
+    "english": "to speak",
+    "frequency": 20
+  },
+  {
+    "rank": 490,
+    "arabic": "حِكْمَة",
+    "transliteration": "ḥikmah",
+    "bangla": "প্রজ্ঞা; হিকমাহ",
+    "english": "wisdom",
+    "frequency": 20
+  },
+  {
+    "rank": 491,
+    "arabic": "صابِر",
+    "transliteration": "ṣābir",
+    "bangla": "ধৈর্যশীল",
+    "english": "patient",
+    "frequency": 20
+  },
+  {
+    "rank": 492,
+    "arabic": "بَلَوَ",
+    "transliteration": "balā",
+    "bangla": "পরীক্ষা করা",
+    "english": "to test",
+    "frequency": 20
+  },
+  {
+    "rank": 493,
+    "arabic": "أَحَلَّ",
+    "transliteration": "aḥalla",
+    "bangla": "বৈধ করা; হালাল করা",
+    "english": "to make lawful",
+    "frequency": 20
+  },
+  {
+    "rank": 494,
+    "arabic": "أَمِنَ",
+    "transliteration": "amina",
+    "bangla": "নিরাপদ হওয়া",
+    "english": "to be secure",
+    "frequency": 20
+  },
+  {
+    "rank": 495,
+    "arabic": "عِقاب",
+    "transliteration": "ʿiqāb",
+    "bangla": "শাস্তি; প্রতিফল",
+    "english": "punishment; penalty",
+    "frequency": 20
+  },
+  {
+    "rank": 496,
+    "arabic": "مَرَّة",
+    "transliteration": "marrah",
+    "bangla": "বার; একবার",
+    "english": "time; occurrence",
+    "frequency": 20
+  },
+  {
+    "rank": 497,
+    "arabic": "هارُون",
+    "transliteration": "Hārūn",
+    "bangla": "হারূন (আ.)",
+    "english": "Harun (Aaron)",
+    "frequency": 20
+  },
+  {
+    "rank": 498,
+    "arabic": "ظُلْم",
+    "transliteration": "ẓulm",
+    "bangla": "জুলুম; অন্যায়; অত্যাচার",
+    "english": "injustice; wrongdoing",
+    "frequency": 20
+  },
+  {
+    "rank": 499,
+    "arabic": "قَصَّ",
+    "transliteration": "qaṣṣa",
+    "bangla": "বর্ণনা করা; কাহিনি বলা",
+    "english": "to relate; to narrate",
+    "frequency": 20
+  },
+  {
+    "rank": 500,
+    "arabic": "أَقْسَمُ",
+    "transliteration": "aqsamu",
+    "bangla": "আমি শপথ করছি",
+    "english": "I swear",
+    "frequency": 20
+  }
+]
